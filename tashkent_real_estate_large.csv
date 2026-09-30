@@ -1,0 +1,1201 @@
+Property_ID,District,Area_Sqm,Rooms,Floor,Total_Floors,Distance_to_Center_Km,Renovation,Building_Type,Price_USD
+1,Yunusobod,47,1,6,9,1.7,Ta'mirsiz,Panel,46385
+2,Chilonzor,80,2,1,4,15.9,O'rtacha,Panel,63591
+3,Yunusobod,49,1,3,4,6.4,O'rtacha,Panel,47626
+4,Mirobod,103,4,2,5,0.6,Ta'mirsiz,Panel,140958
+5,Chilonzor,59,1,4,5,8.3,Yevro,Monolit,80196
+6,Yunusobod,144,4,8,12,15.5,O'rtacha,Monolit,149974
+7,Yakkasaroy,89,4,9,9,3.5,O'rtacha,Monolit,128589
+8,Yunusobod,28,1,11,12,1.0,Yevro,Panel,37432
+9,Chilonzor,54,3,5,5,10.3,Yevro,G'ishtli,65638
+10,Shayxontohur,95,3,7,12,4.4,O'rtacha,Panel,112193
+11,Chilonzor,59,2,4,9,3.9,Ta'mirsiz,Panel,54899
+12,Olmazor,61,2,13,16,7.8,Yevro,G'ishtli,61917
+13,Yunusobod,72,2,1,4,7.1,Ta'mirsiz,G'ishtli,69058
+14,Yunusobod,68,2,9,9,13.2,Ta'mirsiz,G'ishtli,60288
+15,Mirzo Ulug'bek,47,1,1,5,3.4,Yevro,Panel,66194
+16,Yunusobod,95,3,5,20,3.1,Ta'mirsiz,G'ishtli,97811
+17,Yunusobod,110,4,4,4,7.6,O'rtacha,Panel,114643
+18,Yunusobod,54,2,12,12,10.4,O'rtacha,G'ishtli,62356
+19,Mirzo Ulug'bek,94,3,4,5,4.1,O'rtacha,Panel,107535
+20,Mirobod,85,4,7,9,4.5,Yevro,Panel,118733
+21,Shayxontohur,80,3,9,9,1.0,Ta'mirsiz,Monolit,110928
+22,Yunusobod,95,4,4,16,6.9,Ta'mirsiz,Monolit,105856
+23,Olmazor,82,2,1,5,13.0,O'rtacha,Panel,57757
+24,Chilonzor,41,1,3,9,12.1,O'rtacha,G'ishtli,37881
+25,Shayxontohur,88,4,1,9,5.5,O'rtacha,G'ishtli,106546
+26,Chilonzor,50,1,5,16,10.6,Yevro,Monolit,65813
+27,Olmazor,90,3,3,5,7.8,Yevro,G'ishtli,86038
+28,Chilonzor,92,3,2,20,9.5,Yevro,Panel,94499
+29,Yunusobod,49,2,2,5,2.9,O'rtacha,Panel,48337
+30,Sergeli,87,3,4,5,14.7,O'rtacha,Monolit,84258
+31,Yakkasaroy,122,4,2,5,5.9,Ta'mirsiz,Monolit,157091
+32,Sergeli,52,2,4,4,9.4,O'rtacha,G'ishtli,42430
+33,Mirzo Ulug'bek,55,1,3,5,15.5,O'rtacha,G'ishtli,56064
+34,Mirzo Ulug'bek,55,1,8,9,3.2,Yevro,Panel,77780
+35,Mirobod,81,3,2,4,4.5,Yevro,Panel,129961
+36,Chilonzor,69,1,2,5,8.3,O'rtacha,G'ishtli,75300
+37,Yakkasaroy,63,2,4,4,3.3,Ta'mirsiz,Panel,76375
+38,Mirobod,104,4,1,9,1.2,Ta'mirsiz,Panel,144065
+39,Mirobod,62,2,1,4,0.6,Ta'mirsiz,G'ishtli,92625
+40,Yunusobod,86,3,4,9,7.2,O'rtacha,Panel,85245
+41,Yunusobod,58,3,9,12,13.8,O'rtacha,Panel,55687
+42,Yunusobod,66,2,3,16,5.3,Yevro,G'ishtli,97355
+43,Chilonzor,83,4,1,5,9.5,O'rtacha,Panel,77986
+44,Yakkasaroy,66,3,2,9,6.0,Yevro,Panel,94672
+45,Mirobod,97,4,2,12,2.8,Yevro,G'ishtli,436872
+46,Chilonzor,38,2,3,5,15.2,Ta'mirsiz,Panel,18000
+47,Sergeli,28,2,4,4,12.4,Yevro,Panel,31350
+48,Sergeli,88,3,5,9,11.4,O'rtacha,G'ishtli,72452
+49,Mirobod,80,2,1,9,5.8,O'rtacha,Panel,105690
+50,Yakkasaroy,96,2,8,9,5.7,Ta'mirsiz,Panel,112893
+51,Chilonzor,44,1,1,5,4.8,O'rtacha,G'ishtli,55806
+52,Yunusobod,118,4,5,5,2.8,Yevro,Monolit,139769
+53,Yakkasaroy,92,4,17,20,0.6,O'rtacha,Panel,123000
+54,Yunusobod,59,3,1,4,9.5,Yevro,G'ishtli,80894
+55,Chilonzor,81,4,10,16,15.9,O'rtacha,Panel,70231
+56,Yunusobod,56,2,2,12,5.0,Yevro,Monolit,76603
+57,Yunusobod,83,3,5,9,12.5,O'rtacha,Monolit,85356
+58,Chilonzor,85,3,7,12,7.2,O'rtacha,Panel,85940
+59,Chilonzor,31,1,12,12,14.5,Yevro,Panel,33854
+60,Yunusobod,122,4,1,4,7.8,Ta'mirsiz,Panel,117450
+61,Mirobod,28,1,2,4,0.9,Yevro,G'ishtli,59973
+62,Shayxontohur,89,3,5,5,3.3,Ta'mirsiz,Panel,97123
+63,Chilonzor,54,1,2,5,2.6,O'rtacha,G'ishtli,58878
+64,Shayxontohur,57,3,4,9,0.8,Yevro,Panel,84668
+65,Yunusobod,68,2,4,4,6.4,O'rtacha,Panel,57712
+66,Chilonzor,96,3,1,5,1.3,Ta'mirsiz,G'ishtli,102464
+67,Shayxontohur,81,4,2,5,3.4,Yevro,G'ishtli,112248
+68,Sergeli,53,2,4,5,15.2,O'rtacha,G'ishtli,37509
+69,Shayxontohur,28,2,4,5,1.8,Yevro,G'ishtli,60195
+70,Olmazor,79,4,2,12,17.7,O'rtacha,Panel,61183
+71,Yakkasaroy,33,1,1,5,2.3,O'rtacha,Panel,46100
+72,Yakkasaroy,90,2,3,4,3.4,Yevro,G'ishtli,124148
+73,Yakkasaroy,90,2,3,9,0.5,Yevro,Panel,122224
+74,Yunusobod,79,2,8,12,1.8,O'rtacha,Panel,83247
+75,Sergeli,94,4,2,5,9.6,O'rtacha,Monolit,85006
+76,Mirzo Ulug'bek,68,2,9,9,7.8,Yevro,Panel,86904
+77,Yunusobod,92,2,3,5,4.3,O'rtacha,Panel,82881
+78,Yunusobod,83,3,1,4,8.9,Ta'mirsiz,Panel,74008
+79,Shayxontohur,62,2,4,9,3.2,O'rtacha,G'ishtli,83446
+80,Mirzo Ulug'bek,76,3,3,4,8.2,O'rtacha,Panel,92102
+81,Shayxontohur,34,1,3,5,5.5,O'rtacha,Panel,39168
+82,Chilonzor,79,3,4,9,1.1,Ta'mirsiz,Monolit,100051
+83,Sergeli,59,1,1,4,8.1,Ta'mirsiz,Monolit,52024
+84,Mirobod,138,5,4,5,2.3,Ta'mirsiz,G'ishtli,196820
+85,Yakkasaroy,69,2,4,4,3.0,Yevro,Panel,100850
+86,Yakkasaroy,100,4,4,5,1.7,O'rtacha,Monolit,140917
+87,Mirzo Ulug'bek,139,4,5,5,12.2,Yevro,Monolit,167851
+88,Yakkasaroy,102,4,3,5,4.4,O'rtacha,Panel,129266
+89,Chilonzor,82,4,4,5,6.5,Yevro,Panel,90185
+90,Sergeli,68,2,5,5,9.2,O'rtacha,Panel,51507
+91,Chilonzor,44,1,4,12,4.5,O'rtacha,Monolit,56661
+92,Mirobod,68,2,3,4,4.0,O'rtacha,Panel,88179
+93,Yakkasaroy,98,4,5,5,1.9,O'rtacha,Panel,128355
+94,Yunusobod,59,3,2,4,4.1,Ta'mirsiz,Panel,63636
+95,Mirzo Ulug'bek,77,3,7,9,1.1,Yevro,Panel,102246
+96,Yunusobod,49,1,5,12,14.5,O'rtacha,Panel,44065
+97,Sergeli,56,2,3,5,14.9,Yevro,G'ishtli,50006
+98,Yakkasaroy,116,3,4,4,2.8,O'rtacha,Panel,150947
+99,Mirobod,69,3,6,16,3.9,Ta'mirsiz,G'ishtli,104142
+100,Shayxontohur,90,2,1,4,3.8,Yevro,Panel,107688
+101,Yunusobod,116,4,3,4,7.8,Yevro,G'ishtli,131022
+102,Yunusobod,30,1,4,5,14.7,Yevro,Monolit,44936
+103,Yakkasaroy,84,4,3,5,4.3,Ta'mirsiz,G'ishtli,115032
+104,Mirobod,85,2,2,5,5.5,Yevro,Panel,123243
+105,Mirzo Ulug'bek,91,2,8,9,7.7,O'rtacha,Panel,99021
+106,Yunusobod,48,1,9,12,1.8,Yevro,Panel,66051
+107,Shayxontohur,28,2,2,4,3.0,Ta'mirsiz,G'ishtli,42908
+108,Mirobod,105,4,9,12,4.0,Ta'mirsiz,Monolit,149128
+109,Yunusobod,118,3,5,9,7.9,Yevro,Monolit,137793
+110,Chilonzor,28,1,2,4,4.1,Ta'mirsiz,Panel,18020
+111,Mirobod,81,4,6,12,4.6,Yevro,Panel,127074
+112,Yakkasaroy,35,1,3,4,1.5,O'rtacha,G'ishtli,55558
+113,Yunusobod,137,5,3,20,4.8,O'rtacha,Panel,143768
+114,Sergeli,57,2,4,5,13.4,Yevro,Monolit,53718
+115,Mirzo Ulug'bek,73,3,3,4,12.0,Yevro,G'ishtli,91634
+116,Shayxontohur,53,2,5,5,0.9,Ta'mirsiz,Panel,61789
+117,Olmazor,121,4,3,5,15.1,O'rtacha,Monolit,109869
+118,Olmazor,95,3,10,12,13.8,O'rtacha,G'ishtli,82681
+119,Mirzo Ulug'bek,61,3,2,5,0.8,O'rtacha,Panel,77840
+120,Yunusobod,79,3,6,12,4.7,O'rtacha,Panel,229865
+121,Yunusobod,73,3,4,12,6.8,Yevro,Panel,82370
+122,Shayxontohur,70,2,2,4,3.7,Yevro,Panel,90416
+123,Mirobod,60,2,3,5,2.6,Yevro,Panel,101473
+124,Yunusobod,91,2,2,5,13.8,O'rtacha,Panel,79697
+125,Sergeli,62,3,4,12,7.3,O'rtacha,Monolit,58496
+126,Mirzo Ulug'bek,97,3,4,5,4.0,Yevro,Panel,118238
+127,Mirzo Ulug'bek,83,3,1,4,13.6,O'rtacha,Panel,84742
+128,Olmazor,115,4,2,5,9.5,Yevro,Panel,112466
+129,Sergeli,63,1,5,5,11.3,O'rtacha,Panel,31269
+130,Sergeli,98,2,1,5,13.3,Yevro,Panel,77249
+131,Yakkasaroy,53,2,2,9,0.9,O'rtacha,G'ishtli,80008
+132,Sergeli,77,4,9,9,16.9,O'rtacha,Panel,48486
+133,Shayxontohur,84,4,6,9,5.0,Yevro,Monolit,125495
+134,Mirzo Ulug'bek,85,3,1,4,2.0,Yevro,G'ishtli,125655
+135,Yakkasaroy,66,2,3,4,2.9,Yevro,G'ishtli,94788
+136,Yunusobod,46,1,5,5,1.9,Yevro,G'ishtli,69177
+137,Shayxontohur,62,2,4,9,5.9,Yevro,Monolit,98950
+138,Chilonzor,114,4,5,5,12.9,O'rtacha,Monolit,108230
+139,Yunusobod,111,4,4,4,2.8,O'rtacha,Monolit,134610
+140,Yunusobod,28,1,7,9,7.4,Yevro,Panel,36734
+141,Yunusobod,46,1,4,5,15.5,Yevro,Panel,43876
+142,Chilonzor,73,2,1,5,1.9,Yevro,Panel,85510
+143,Mirzo Ulug'bek,91,3,5,9,3.3,Yevro,G'ishtli,116067
+144,Yakkasaroy,92,3,9,20,3.6,O'rtacha,G'ishtli,129311
+145,Yakkasaroy,71,3,11,20,3.3,Yevro,G'ishtli,106712
+146,Chilonzor,36,1,4,4,6.0,O'rtacha,G'ishtli,42803
+147,Shayxontohur,90,4,2,4,4.2,O'rtacha,Monolit,116071
+148,Shayxontohur,73,1,1,4,5.1,Ta'mirsiz,Panel,76918
+149,Shayxontohur,48,1,6,20,4.1,Yevro,Panel,67693
+150,Yunusobod,66,2,3,16,2.5,O'rtacha,Panel,70524
+151,Sergeli,93,3,4,5,8.3,O'rtacha,G'ishtli,79344
+152,Yakkasaroy,28,1,8,9,3.5,O'rtacha,G'ishtli,48835
+153,Shayxontohur,57,2,4,5,3.4,O'rtacha,G'ishtli,85202
+154,Chilonzor,34,1,5,9,6.8,O'rtacha,Panel,30708
+155,Chilonzor,68,3,1,4,1.7,Ta'mirsiz,G'ishtli,76398
+156,Yakkasaroy,126,6,5,5,3.7,Yevro,Panel,176297
+157,Mirzo Ulug'bek,71,2,2,4,3.6,O'rtacha,Panel,79238
+158,Chilonzor,71,1,1,4,13.2,O'rtacha,Panel,58922
+159,Yakkasaroy,76,3,16,16,3.9,O'rtacha,Panel,98232
+160,Yakkasaroy,53,2,3,4,4.2,Ta'mirsiz,Panel,58664
+161,Yakkasaroy,88,4,9,9,1.0,Yevro,Panel,125360
+162,Mirzo Ulug'bek,72,3,1,5,2.9,O'rtacha,Panel,94578
+163,Shayxontohur,82,3,4,4,0.9,Yevro,Monolit,120868
+164,Yunusobod,104,4,8,9,13.4,O'rtacha,G'ishtli,99513
+165,Olmazor,86,3,2,9,14.4,Ta'mirsiz,Panel,68136
+166,Mirzo Ulug'bek,96,2,2,4,15.4,O'rtacha,Panel,84655
+167,Chilonzor,114,4,4,5,10.9,O'rtacha,Monolit,115577
+168,Mirobod,56,2,6,9,1.9,O'rtacha,Monolit,94697
+169,Chilonzor,57,2,7,12,6.1,Yevro,Panel,59424
+170,Mirobod,84,3,8,9,3.3,O'rtacha,Panel,121878
+171,Yakkasaroy,57,2,4,5,2.3,Yevro,G'ishtli,94663
+172,Yakkasaroy,78,3,4,12,3.8,Yevro,Monolit,125402
+173,Mirzo Ulug'bek,48,1,12,16,1.8,Yevro,G'ishtli,72279
+174,Sergeli,81,4,2,4,10.1,Ta'mirsiz,G'ishtli,59714
+175,Shayxontohur,69,1,3,5,0.8,O'rtacha,Monolit,99885
+176,Chilonzor,57,1,5,5,11.3,O'rtacha,Panel,48800
+177,Yakkasaroy,98,3,3,4,1.2,Ta'mirsiz,Panel,116495
+178,Mirzo Ulug'bek,42,1,5,5,15.5,Yevro,G'ishtli,50490
+179,Sergeli,77,3,4,16,9.7,Ta'mirsiz,Panel,46247
+180,Yunusobod,95,3,12,12,4.8,Yevro,G'ishtli,109757
+181,Shayxontohur,86,4,9,9,5.8,Yevro,G'ishtli,124818
+182,Shayxontohur,35,2,6,9,5.5,O'rtacha,Panel,40010
+183,Shayxontohur,58,2,1,4,4.6,O'rtacha,Panel,68518
+184,Shayxontohur,102,3,20,20,3.3,O'rtacha,Panel,122276
+185,Sergeli,48,1,4,4,14.3,O'rtacha,G'ishtli,34686
+186,Mirzo Ulug'bek,79,3,4,5,15.6,O'rtacha,G'ishtli,85317
+187,Sergeli,86,2,5,9,15.8,Yevro,Monolit,82975
+188,Olmazor,134,4,4,5,8.2,O'rtacha,G'ishtli,123050
+189,Mirzo Ulug'bek,62,3,7,20,11.1,O'rtacha,G'ishtli,68928
+190,Sergeli,70,2,6,9,16.3,O'rtacha,Panel,41445
+191,Sergeli,82,3,4,5,14.5,Yevro,Monolit,68655
+192,Shayxontohur,132,5,5,9,3.6,O'rtacha,Monolit,173691
+193,Chilonzor,68,2,2,5,11.8,Ta'mirsiz,G'ishtli,60131
+194,Shayxontohur,102,5,6,9,4.3,O'rtacha,Panel,120342
+195,Sergeli,94,3,4,5,12.2,O'rtacha,G'ishtli,77323
+196,Shayxontohur,80,3,1,5,4.3,Yevro,Panel,108470
+197,Mirzo Ulug'bek,99,3,8,9,11.8,Yevro,G'ishtli,118771
+198,Yakkasaroy,100,4,2,5,3.2,Yevro,G'ishtli,150280
+199,Shayxontohur,77,3,3,5,2.3,O'rtacha,G'ishtli,107772
+200,Sergeli,94,3,7,9,14.0,O'rtacha,G'ishtli,74203
+201,Yakkasaroy,43,1,1,5,0.6,Yevro,Panel,69237
+202,Olmazor,64,2,4,9,12.3,O'rtacha,Monolit,61034
+203,Chilonzor,68,3,2,4,8.0,Yevro,G'ishtli,78272
+204,Yunusobod,83,3,12,12,4.9,O'rtacha,Panel,84585
+205,Chilonzor,101,4,3,5,5.6,O'rtacha,G'ishtli,115565
+206,Mirobod,92,2,3,5,1.9,O'rtacha,Monolit,138096
+207,Shayxontohur,61,2,9,9,5.8,Yevro,G'ishtli,83426
+208,Olmazor,100,3,6,9,15.0,Yevro,Panel,95902
+209,Yunusobod,69,1,3,12,10.9,Yevro,G'ishtli,82571
+210,Shayxontohur,57,2,5,5,3.0,Yevro,Panel,78967
+211,Chilonzor,104,4,11,12,3.9,Ta'mirsiz,Monolit,108106
+212,Mirobod,114,4,3,5,1.0,Yevro,G'ishtli,179524
+213,Chilonzor,100,4,8,9,12.6,Ta'mirsiz,G'ishtli,95151
+214,Yunusobod,54,2,4,9,10.6,Yevro,Monolit,74317
+215,Yakkasaroy,84,3,4,4,1.4,O'rtacha,Panel,106095
+216,Olmazor,51,2,1,9,7.9,Ta'mirsiz,Panel,38396
+217,Mirzo Ulug'bek,48,2,1,9,7.3,Yevro,G'ishtli,71113
+218,Chilonzor,62,2,6,16,15.6,Yevro,G'ishtli,67469
+219,Shayxontohur,67,3,2,5,2.5,O'rtacha,Panel,74876
+220,Yunusobod,60,3,1,5,12.0,Yevro,Panel,71664
+221,Sergeli,85,3,3,4,14.4,Yevro,Panel,65685
+222,Chilonzor,96,3,4,5,6.3,Yevro,Panel,100067
+223,Mirobod,83,3,2,9,1.9,Ta'mirsiz,Panel,113624
+224,Mirzo Ulug'bek,102,4,1,5,6.6,Ta'mirsiz,G'ishtli,116188
+225,Mirzo Ulug'bek,84,4,14,20,13.4,O'rtacha,Panel,83914
+226,Shayxontohur,97,3,2,4,1.1,O'rtacha,Panel,115045
+227,Chilonzor,32,2,4,9,1.9,Yevro,Panel,48713
+228,Olmazor,66,2,4,5,13.9,O'rtacha,Panel,49792
+229,Yakkasaroy,56,3,1,9,1.1,Yevro,Monolit,99824
+230,Chilonzor,62,3,2,4,7.9,Yevro,G'ishtli,77939
+231,Yakkasaroy,105,4,4,5,3.3,Yevro,G'ishtli,160725
+232,Mirobod,111,4,2,5,0.9,Yevro,G'ishtli,176722
+233,Olmazor,70,2,1,5,13.8,O'rtacha,Panel,43593
+234,Mirzo Ulug'bek,67,3,9,16,9.5,O'rtacha,G'ishtli,76106
+235,Sergeli,96,3,3,4,13.3,Yevro,Panel,72638
+236,Chilonzor,57,2,1,9,7.0,Ta'mirsiz,Panel,41987
+237,Sergeli,78,3,4,4,11.2,O'rtacha,G'ishtli,60175
+238,Yakkasaroy,69,2,10,12,2.8,O'rtacha,Panel,92009
+239,Mirzo Ulug'bek,67,2,2,20,12.1,O'rtacha,Panel,64225
+240,Chilonzor,32,1,9,9,9.6,Yevro,G'ishtli,40277
+241,Shayxontohur,99,3,12,12,4.2,Yevro,G'ishtli,135326
+242,Yunusobod,51,2,3,4,12.3,Yevro,Monolit,57065
+243,Yakkasaroy,100,4,4,5,2.9,Yevro,Monolit,156776
+244,Yunusobod,28,1,4,4,6.7,O'rtacha,Panel,27397
+245,Yakkasaroy,44,2,3,4,4.3,Yevro,Panel,64720
+246,Yakkasaroy,30,1,4,5,3.2,Yevro,Panel,43481
+247,Yunusobod,80,4,5,5,15.8,Yevro,Monolit,97655
+248,Mirobod,140,4,1,9,5.1,O'rtacha,Panel,181207
+249,Mirzo Ulug'bek,47,2,13,20,9.1,Yevro,Panel,61180
+250,Yakkasaroy,28,2,5,5,3.9,O'rtacha,Panel,37425
+251,Chilonzor,86,4,4,5,2.8,O'rtacha,Panel,92298
+252,Chilonzor,83,2,3,16,11.1,O'rtacha,G'ishtli,86103
+253,Mirzo Ulug'bek,74,3,3,5,9.7,O'rtacha,G'ishtli,87752
+254,Mirzo Ulug'bek,142,6,4,12,15.7,O'rtacha,Panel,148471
+255,Sergeli,79,2,3,5,14.0,Yevro,G'ishtli,67456
+256,Mirzo Ulug'bek,133,6,6,9,1.1,O'rtacha,Panel,158434
+257,Mirzo Ulug'bek,110,5,3,12,5.9,O'rtacha,Panel,130602
+258,Mirobod,98,3,4,4,4.6,Ta'mirsiz,Panel,129717
+259,Mirobod,86,4,4,5,1.1,O'rtacha,Panel,125918
+260,Mirzo Ulug'bek,70,1,11,16,13.1,Ta'mirsiz,G'ishtli,65736
+261,Olmazor,57,3,2,9,12.3,Yevro,Panel,55112
+262,Yunusobod,95,3,19,20,8.0,Yevro,Panel,102374
+263,Yunusobod,53,3,4,9,8.4,O'rtacha,Panel,54110
+264,Shayxontohur,28,1,8,16,2.1,O'rtacha,G'ishtli,50772
+265,Yunusobod,29,1,1,5,10.4,Yevro,Panel,32457
+266,Mirzo Ulug'bek,66,3,3,5,0.9,Yevro,Panel,91010
+267,Sergeli,79,4,4,5,17.0,Ta'mirsiz,Panel,41675
+268,Shayxontohur,93,4,4,4,1.3,Yevro,Monolit,137486
+269,Sergeli,77,3,4,5,15.6,O'rtacha,G'ishtli,57431
+270,Olmazor,50,2,4,9,7.0,Ta'mirsiz,G'ishtli,44728
+271,Olmazor,90,3,4,5,9.4,O'rtacha,Panel,69339
+272,Shayxontohur,101,4,1,5,1.6,Ta'mirsiz,G'ishtli,120947
+273,Sergeli,80,2,3,9,9.7,Ta'mirsiz,Panel,56279
+274,Mirzo Ulug'bek,94,3,6,9,1.0,O'rtacha,Monolit,111890
+275,Sergeli,32,1,1,5,16.4,O'rtacha,G'ishtli,18000
+276,Chilonzor,99,3,4,5,6.1,O'rtacha,G'ishtli,99558
+277,Yakkasaroy,83,3,4,4,3.8,Yevro,G'ishtli,127576
+278,Chilonzor,56,2,9,16,12.2,O'rtacha,G'ishtli,50711
+279,Yunusobod,128,5,7,9,9.3,O'rtacha,G'ishtli,137671
+280,Chilonzor,107,4,4,5,3.0,Ta'mirsiz,Panel,105198
+281,Shayxontohur,106,4,1,5,4.3,O'rtacha,Monolit,134049
+282,Mirzo Ulug'bek,34,1,2,12,11.1,Yevro,G'ishtli,48448
+283,Yakkasaroy,70,2,3,4,3.1,Ta'mirsiz,Panel,79148
+284,Sergeli,64,3,12,20,17.5,Ta'mirsiz,Panel,34454
+285,Yunusobod,125,4,11,12,10.3,Ta'mirsiz,G'ishtli,118937
+286,Yunusobod,54,3,4,12,15.5,O'rtacha,Monolit,63532
+287,Yunusobod,109,3,2,4,9.4,O'rtacha,Panel,109471
+288,Sergeli,97,4,6,12,15.9,Yevro,Panel,66565
+289,Mirzo Ulug'bek,74,2,3,16,2.6,Yevro,G'ishtli,100263
+290,Mirzo Ulug'bek,28,1,2,5,2.2,Yevro,G'ishtli,60121
+291,Yunusobod,57,2,1,4,6.3,O'rtacha,G'ishtli,67752
+292,Mirobod,54,3,8,9,4.2,Yevro,Panel,89699
+293,Yakkasaroy,115,4,4,5,5.4,Ta'mirsiz,Monolit,152499
+294,Sergeli,77,3,4,9,10.3,O'rtacha,G'ishtli,66935
+295,Yunusobod,72,1,8,12,13.4,Yevro,Panel,73955
+296,Shayxontohur,30,1,5,5,1.2,O'rtacha,G'ishtli,48113
+297,Shayxontohur,60,1,3,5,5.4,Yevro,G'ishtli,82217
+298,Shayxontohur,91,3,2,4,2.3,O'rtacha,Panel,111007
+299,Yunusobod,92,3,11,12,3.1,O'rtacha,Panel,93175
+300,Yunusobod,31,1,5,9,8.1,O'rtacha,Monolit,39762
+301,Yakkasaroy,92,2,2,4,3.0,Yevro,G'ishtli,137490
+302,Olmazor,102,5,4,5,15.9,Yevro,G'ishtli,102481
+303,Chilonzor,82,3,4,5,7.4,O'rtacha,G'ishtli,83829
+304,Sergeli,57,1,4,5,7.1,O'rtacha,Monolit,57370
+305,Yakkasaroy,122,4,4,4,2.9,Yevro,Panel,166434
+306,Sergeli,28,1,3,12,8.7,Yevro,G'ishtli,39398
+307,Mirzo Ulug'bek,69,3,4,5,13.7,Ta'mirsiz,Panel,61283
+308,Chilonzor,73,1,5,12,7.1,Ta'mirsiz,Panel,58902
+309,Chilonzor,57,2,4,5,11.2,Yevro,G'ishtli,69730
+310,Mirobod,92,2,2,5,4.8,O'rtacha,Monolit,137650
+311,Olmazor,74,3,4,4,13.0,Ta'mirsiz,Panel,50585
+312,Mirzo Ulug'bek,47,1,2,5,3.9,O'rtacha,G'ishtli,53290
+313,Shayxontohur,82,2,3,5,0.9,O'rtacha,Panel,94238
+314,Shayxontohur,104,4,10,16,2.0,O'rtacha,Monolit,142274
+315,Mirzo Ulug'bek,42,2,5,5,0.9,O'rtacha,Panel,54838
+316,Mirzo Ulug'bek,76,3,10,12,7.6,Ta'mirsiz,G'ishtli,84776
+317,Shayxontohur,91,3,4,12,2.3,Ta'mirsiz,G'ishtli,107686
+318,Mirzo Ulug'bek,118,4,3,4,4.5,O'rtacha,G'ishtli,146435
+319,Chilonzor,50,2,2,5,9.9,O'rtacha,G'ishtli,43735
+320,Sergeli,39,1,1,5,15.1,O'rtacha,G'ishtli,25994
+321,Yunusobod,60,3,2,12,14.7,Ta'mirsiz,G'ishtli,59157
+322,Shayxontohur,95,3,6,12,4.1,Ta'mirsiz,G'ishtli,110298
+323,Sergeli,42,1,3,5,12.2,Yevro,G'ishtli,42493
+324,Mirzo Ulug'bek,43,1,7,9,3.2,Yevro,G'ishtli,69847
+325,Shayxontohur,69,3,5,5,5.6,O'rtacha,Panel,86234
+326,Yunusobod,87,3,2,5,14.7,Ta'mirsiz,G'ishtli,82699
+327,Yunusobod,56,3,5,9,2.0,Ta'mirsiz,G'ishtli,61931
+328,Shayxontohur,79,3,2,4,3.9,Yevro,Panel,104786
+329,Mirzo Ulug'bek,28,1,1,5,13.9,O'rtacha,Panel,18413
+330,Yunusobod,114,5,2,4,2.6,O'rtacha,Panel,120358
+331,Yakkasaroy,40,1,3,5,3.9,O'rtacha,Panel,48060
+332,Shayxontohur,112,4,16,16,3.5,O'rtacha,G'ishtli,139088
+333,Yakkasaroy,66,1,1,5,1.6,O'rtacha,Monolit,92797
+334,Mirobod,88,4,9,9,2.7,Ta'mirsiz,G'ishtli,132957
+335,Shayxontohur,101,4,3,9,1.6,Yevro,G'ishtli,144705
+336,Sergeli,64,1,4,5,14.1,Yevro,G'ishtli,44061
+337,Chilonzor,91,3,20,20,15.7,O'rtacha,Panel,77642
+338,Mirobod,28,1,4,5,2.5,Yevro,G'ishtli,60888
+339,Chilonzor,89,3,2,9,13.4,Ta'mirsiz,G'ishtli,78929
+340,Sergeli,56,2,1,9,15.6,O'rtacha,Panel,31507
+341,Chilonzor,91,3,4,4,10.9,Yevro,G'ishtli,95875
+342,Sergeli,117,5,6,9,14.0,Yevro,Panel,98348
+343,Mirzo Ulug'bek,43,1,1,9,13.9,Ta'mirsiz,Panel,32167
+344,Yakkasaroy,70,2,3,9,2.9,O'rtacha,Panel,85318
+345,Shayxontohur,45,1,4,9,1.7,O'rtacha,G'ishtli,59042
+346,Mirzo Ulug'bek,93,2,3,5,4.1,O'rtacha,G'ishtli,113530
+347,Sergeli,99,3,5,5,9.2,O'rtacha,Panel,73421
+348,Sergeli,63,2,3,9,8.0,Ta'mirsiz,G'ishtli,50866
+349,Mirobod,49,1,3,9,4.8,O'rtacha,G'ishtli,71606
+350,Chilonzor,49,1,5,5,8.6,Yevro,Monolit,189994
+351,Yakkasaroy,78,3,8,9,4.4,O'rtacha,G'ishtli,107940
+352,Yunusobod,109,4,10,12,7.9,O'rtacha,Panel,103041
+353,Shayxontohur,60,2,1,4,4.2,O'rtacha,Monolit,83004
+354,Chilonzor,79,2,4,5,9.2,O'rtacha,Panel,70473
+355,Chilonzor,41,2,3,4,1.7,O'rtacha,G'ishtli,61907
+356,Sergeli,50,2,8,9,13.3,Yevro,Monolit,63912
+357,Chilonzor,115,3,3,5,4.3,Ta'mirsiz,Panel,109151
+358,Yunusobod,90,3,7,12,13.0,Ta'mirsiz,G'ishtli,82182
+359,Yakkasaroy,66,2,2,9,4.2,Ta'mirsiz,G'ishtli,82879
+360,Chilonzor,58,2,3,4,4.9,Yevro,G'ishtli,71645
+361,Mirobod,88,3,4,5,5.0,O'rtacha,G'ishtli,122488
+362,Yunusobod,65,2,3,5,13.9,Yevro,G'ishtli,74398
+363,Yakkasaroy,66,2,1,5,1.3,O'rtacha,G'ishtli,96019
+364,Mirzo Ulug'bek,73,2,2,5,5.1,O'rtacha,G'ishtli,88921
+365,Shayxontohur,87,3,3,5,5.1,Ta'mirsiz,Monolit,109902
+366,Mirzo Ulug'bek,127,5,7,12,11.2,O'rtacha,G'ishtli,143202
+367,Shayxontohur,85,4,6,9,5.0,O'rtacha,Panel,91355
+368,Yunusobod,28,1,4,5,2.9,O'rtacha,G'ishtli,42075
+369,Mirzo Ulug'bek,96,3,3,12,9.6,O'rtacha,G'ishtli,108514
+370,Mirobod,67,2,5,5,2.4,Ta'mirsiz,G'ishtli,99003
+371,Olmazor,54,1,1,4,15.7,O'rtacha,Panel,28718
+372,Yakkasaroy,59,2,7,12,5.7,O'rtacha,Monolit,81510
+373,Chilonzor,93,3,2,16,12.4,O'rtacha,Panel,85547
+374,Mirzo Ulug'bek,65,1,9,9,3.9,Yevro,Panel,82276
+375,Mirzo Ulug'bek,64,2,12,20,5.0,Ta'mirsiz,Monolit,79137
+376,Chilonzor,36,1,4,5,11.8,Yevro,Panel,34624
+377,Yunusobod,63,2,5,9,2.7,O'rtacha,G'ishtli,79638
+378,Sergeli,70,2,1,5,11.7,Yevro,G'ishtli,66366
+379,Yunusobod,105,4,4,9,3.7,Yevro,Panel,127121
+380,Shayxontohur,50,3,3,20,4.4,O'rtacha,Panel,57921
+381,Chilonzor,96,2,2,16,15.9,O'rtacha,Monolit,87742
+382,Olmazor,83,2,2,5,11.9,O'rtacha,G'ishtli,66151
+383,Olmazor,42,1,1,5,8.3,Ta'mirsiz,Panel,29870
+384,Shayxontohur,32,2,1,5,5.5,Yevro,Panel,42145
+385,Shayxontohur,78,4,4,9,1.5,O'rtacha,G'ishtli,108880
+386,Shayxontohur,103,4,5,9,0.7,Yevro,G'ishtli,151976
+387,Sergeli,122,5,5,12,10.6,Yevro,Panel,104944
+388,Chilonzor,69,1,8,12,9.7,Yevro,Monolit,77570
+389,Chilonzor,85,2,6,16,3.4,O'rtacha,G'ishtli,98955
+390,Mirzo Ulug'bek,57,1,5,5,2.6,Yevro,Panel,76974
+391,Yakkasaroy,87,3,1,5,5.0,O'rtacha,G'ishtli,111623
+392,Yunusobod,37,2,11,12,4.2,O'rtacha,Panel,28781
+393,Sergeli,53,1,10,16,7.8,O'rtacha,Panel,33263
+394,Mirzo Ulug'bek,86,4,3,5,9.3,O'rtacha,G'ishtli,97780
+395,Sergeli,76,3,5,5,14.5,Ta'mirsiz,G'ishtli,51530
+396,Yunusobod,63,2,3,4,7.1,O'rtacha,Panel,60174
+397,Yunusobod,63,3,3,9,3.2,Yevro,Panel,78728
+398,Yunusobod,118,5,10,16,4.2,Ta'mirsiz,Monolit,131633
+399,Yunusobod,62,2,5,5,1.5,O'rtacha,G'ishtli,74046
+400,Shayxontohur,65,2,2,5,2.9,Yevro,Panel,86469
+401,Yakkasaroy,69,2,5,9,5.9,Ta'mirsiz,G'ishtli,87515
+402,Olmazor,69,1,12,20,13.8,O'rtacha,Panel,51803
+403,Shayxontohur,56,3,9,9,3.9,Yevro,G'ishtli,88445
+404,Chilonzor,67,2,1,4,14.4,Yevro,G'ishtli,66349
+405,Chilonzor,63,1,1,5,4.4,Ta'mirsiz,Monolit,62267
+406,Yunusobod,60,1,6,9,9.5,O'rtacha,G'ishtli,60675
+407,Sergeli,47,1,8,9,13.2,Yevro,G'ishtli,39899
+408,Olmazor,96,2,5,5,16.2,Ta'mirsiz,G'ishtli,62571
+409,Chilonzor,78,3,5,12,5.1,Yevro,Panel,84759
+410,Shayxontohur,123,4,9,9,1.6,Yevro,Monolit,168833
+411,Yunusobod,46,1,6,9,1.7,Yevro,G'ishtli,60152
+412,Yunusobod,49,1,4,9,4.5,O'rtacha,Panel,45640
+413,Chilonzor,78,3,1,4,2.0,Yevro,Monolit,100999
+414,Chilonzor,90,3,4,9,14.0,Yevro,Panel,91386
+415,Mirzo Ulug'bek,113,4,3,5,10.6,Yevro,Panel,134788
+416,Yakkasaroy,51,2,11,20,5.3,Yevro,G'ishtli,79494
+417,Mirobod,92,3,1,5,4.1,Yevro,Panel,135348
+418,Sergeli,67,3,4,5,12.1,Yevro,G'ishtli,55258
+419,Mirzo Ulug'bek,92,3,4,5,8.3,O'rtacha,Panel,103106
+420,Yakkasaroy,92,4,4,12,4.9,Ta'mirsiz,G'ishtli,112942
+421,Shayxontohur,35,2,1,4,3.7,Yevro,Panel,57294
+422,Shayxontohur,105,3,4,5,2.3,O'rtacha,Panel,131391
+423,Olmazor,72,2,5,12,14.1,Yevro,G'ishtli,56468
+424,Shayxontohur,42,1,6,9,5.2,Ta'mirsiz,Panel,39113
+425,Sergeli,113,5,3,4,11.3,O'rtacha,G'ishtli,88104
+426,Mirobod,110,5,1,5,3.7,Ta'mirsiz,G'ishtli,147183
+427,Mirzo Ulug'bek,81,3,4,4,6.3,O'rtacha,Panel,93813
+428,Shayxontohur,88,3,4,5,3.9,Yevro,G'ishtli,123406
+429,Mirzo Ulug'bek,59,2,5,5,9.2,O'rtacha,G'ishtli,71431
+430,Yakkasaroy,79,3,4,5,4.0,Ta'mirsiz,G'ishtli,100896
+431,Yunusobod,95,4,4,9,9.7,O'rtacha,G'ishtli,102565
+432,Chilonzor,87,3,1,4,14.7,Yevro,G'ishtli,98562
+433,Sergeli,90,3,3,5,11.1,O'rtacha,Panel,64050
+434,Mirobod,60,2,4,5,1.4,O'rtacha,Monolit,96607
+435,Mirzo Ulug'bek,30,1,10,12,7.5,O'rtacha,G'ishtli,32428
+436,Shayxontohur,67,1,4,5,3.4,Yevro,Monolit,97185
+437,Mirzo Ulug'bek,87,3,3,12,1.7,O'rtacha,Panel,98461
+438,Chilonzor,53,2,1,4,11.1,O'rtacha,G'ishtli,48400
+439,Chilonzor,69,2,4,9,2.0,Ta'mirsiz,Panel,60275
+440,Yunusobod,100,5,7,9,6.3,Yevro,G'ishtli,120329
+441,Yunusobod,113,5,2,4,7.9,O'rtacha,Monolit,121052
+442,Mirzo Ulug'bek,58,2,2,9,10.6,O'rtacha,G'ishtli,64277
+443,Mirzo Ulug'bek,67,1,5,5,13.3,Ta'mirsiz,Panel,50757
+444,Chilonzor,28,1,3,5,4.6,Ta'mirsiz,G'ishtli,24209
+445,Yakkasaroy,42,1,7,9,4.7,O'rtacha,G'ishtli,60905
+446,Mirzo Ulug'bek,65,2,3,9,6.7,Yevro,G'ishtli,86230
+447,Olmazor,54,2,9,20,7.3,O'rtacha,Panel,42358
+448,Yakkasaroy,79,3,4,4,5.7,Ta'mirsiz,G'ishtli,97125
+449,Mirobod,91,3,2,4,0.8,O'rtacha,Panel,131227
+450,Mirzo Ulug'bek,55,1,4,5,11.0,O'rtacha,Panel,52183
+451,Yakkasaroy,88,2,2,5,1.4,Yevro,Panel,123047
+452,Yakkasaroy,95,2,5,5,2.4,O'rtacha,Monolit,131740
+453,Yunusobod,36,2,1,9,3.5,O'rtacha,G'ishtli,41191
+454,Sergeli,83,2,4,5,8.5,O'rtacha,Panel,60065
+455,Mirobod,84,3,9,16,1.4,Ta'mirsiz,Monolit,122236
+456,Mirzo Ulug'bek,41,1,1,5,11.5,O'rtacha,Monolit,44532
+457,Shayxontohur,59,2,3,4,5.1,Yevro,Panel,74322
+458,Yunusobod,90,3,1,4,12.0,O'rtacha,Panel,90714
+459,Olmazor,79,2,3,4,11.6,Ta'mirsiz,G'ishtli,61395
+460,Yakkasaroy,52,2,1,4,2.7,O'rtacha,Monolit,80262
+461,Mirzo Ulug'bek,80,3,1,5,10.3,Ta'mirsiz,Panel,74824
+462,Yakkasaroy,60,1,1,5,2.2,O'rtacha,Panel,72949
+463,Chilonzor,37,1,9,9,6.9,Ta'mirsiz,G'ishtli,35988
+464,Yunusobod,49,1,2,12,9.3,O'rtacha,Panel,39256
+465,Sergeli,65,2,10,16,7.6,Yevro,G'ishtli,63929
+466,Olmazor,126,5,5,5,15.4,Yevro,Panel,110767
+467,Mirobod,100,4,7,9,5.8,O'rtacha,G'ishtli,141487
+468,Shayxontohur,54,1,2,4,2.2,O'rtacha,G'ishtli,77392
+469,Chilonzor,77,3,2,4,12.2,Ta'mirsiz,Panel,62655
+470,Shayxontohur,68,3,7,16,3.8,O'rtacha,Panel,84082
+471,Olmazor,60,2,3,9,14.5,Yevro,Panel,52742
+472,Yunusobod,74,1,6,12,11.2,Yevro,Monolit,85839
+473,Olmazor,85,3,3,4,9.8,Ta'mirsiz,G'ishtli,69489
+474,Mirobod,73,1,1,9,4.2,O'rtacha,Panel,95913
+475,Mirzo Ulug'bek,84,3,1,9,2.4,Ta'mirsiz,Panel,93911
+476,Yunusobod,82,3,7,12,5.8,Yevro,G'ishtli,97394
+477,Yunusobod,99,3,15,20,2.9,Yevro,Panel,110151
+478,Yunusobod,82,3,4,4,14.2,O'rtacha,Panel,64829
+479,Mirzo Ulug'bek,28,2,5,12,8.9,O'rtacha,Panel,22991
+480,Sergeli,50,2,7,9,15.3,O'rtacha,G'ishtli,42574
+481,Sergeli,102,4,2,5,8.2,O'rtacha,Panel,70054
+482,Chilonzor,83,3,1,5,2.6,O'rtacha,G'ishtli,92959
+483,Shayxontohur,72,3,7,12,2.9,O'rtacha,Panel,85864
+484,Shayxontohur,75,2,4,12,2.3,O'rtacha,G'ishtli,95178
+485,Mirobod,50,1,6,12,1.8,Ta'mirsiz,G'ishtli,77679
+486,Mirobod,41,1,19,20,1.7,O'rtacha,Panel,58681
+487,Yunusobod,71,2,4,4,5.7,Yevro,Panel,79303
+488,Yunusobod,72,2,4,5,2.9,O'rtacha,Panel,69756
+489,Sergeli,59,2,2,9,11.3,O'rtacha,G'ishtli,42913
+490,Yunusobod,111,4,2,4,10.6,Yevro,Panel,117795
+491,Yunusobod,58,3,1,4,12.0,O'rtacha,Monolit,61902
+492,Chilonzor,65,3,7,9,6.6,O'rtacha,G'ishtli,72319
+493,Shayxontohur,113,4,4,9,4.3,Ta'mirsiz,Panel,118364
+494,Shayxontohur,50,2,2,5,2.6,Yevro,G'ishtli,77914
+495,Yakkasaroy,78,3,4,5,4.4,Yevro,Panel,112611
+496,Mirzo Ulug'bek,42,1,5,9,1.9,O'rtacha,Monolit,59589
+497,Mirzo Ulug'bek,61,3,1,5,0.9,O'rtacha,G'ishtli,82108
+498,Chilonzor,121,4,1,4,4.5,O'rtacha,G'ishtli,133278
+499,Chilonzor,47,1,9,9,6.0,Ta'mirsiz,Panel,31809
+500,Yunusobod,37,2,1,5,2.1,O'rtacha,Panel,42612
+501,Mirzo Ulug'bek,28,2,3,5,9.4,O'rtacha,Panel,27331
+502,Sergeli,86,3,2,4,7.5,O'rtacha,Panel,70026
+503,Shayxontohur,115,4,1,5,1.5,O'rtacha,Panel,137549
+504,Shayxontohur,37,2,12,12,5.8,O'rtacha,Panel,43095
+505,Yakkasaroy,113,4,5,5,2.9,Yevro,G'ishtli,167722
+506,Shayxontohur,79,2,16,20,3.8,O'rtacha,Panel,96607
+507,Yunusobod,75,3,5,9,3.5,Yevro,Panel,92483
+508,Mirzo Ulug'bek,104,4,11,12,14.0,Yevro,Panel,116530
+509,Yunusobod,88,3,8,9,2.6,Yevro,G'ishtli,113924
+510,Yunusobod,102,4,12,16,7.4,Ta'mirsiz,Panel,98765
+511,Chilonzor,107,3,2,4,12.8,Ta'mirsiz,Panel,89234
+512,Chilonzor,111,5,8,9,11.9,Ta'mirsiz,Panel,92412
+513,Yunusobod,63,2,5,9,7.0,Yevro,G'ishtli,79401
+514,Sergeli,123,4,7,16,13.1,Yevro,Monolit,105819
+515,Yunusobod,94,4,3,4,5.6,Ta'mirsiz,G'ishtli,102625
+516,Shayxontohur,53,3,4,5,3.9,Yevro,Panel,75597
+517,Chilonzor,62,1,7,9,8.5,O'rtacha,G'ishtli,63788
+518,Chilonzor,104,4,6,9,7.2,Yevro,Panel,109369
+519,Shayxontohur,105,5,1,9,2.7,Ta'mirsiz,Monolit,129778
+520,Yakkasaroy,48,1,2,5,3.2,O'rtacha,G'ishtli,72640
+521,Chilonzor,96,3,11,12,9.1,Yevro,G'ishtli,106098
+522,Chilonzor,84,3,3,4,8.9,Ta'mirsiz,Panel,73525
+523,Mirobod,49,1,9,12,2.7,Ta'mirsiz,Panel,62927
+524,Chilonzor,50,3,1,4,12.4,O'rtacha,G'ishtli,48213
+525,Yunusobod,91,4,5,5,15.9,O'rtacha,G'ishtli,86417
+526,Chilonzor,90,3,5,5,9.4,Yevro,G'ishtli,97652
+527,Yunusobod,75,3,2,20,10.4,O'rtacha,G'ishtli,77040
+528,Sergeli,79,3,3,12,10.0,Yevro,Panel,68457
+529,Yunusobod,91,2,18,20,6.7,Yevro,G'ishtli,109654
+530,Chilonzor,49,1,9,9,10.4,O'rtacha,Monolit,44405
+531,Yunusobod,60,2,1,4,7.6,O'rtacha,G'ishtli,71552
+532,Yunusobod,111,3,1,9,15.3,Ta'mirsiz,Panel,89936
+533,Yunusobod,90,3,8,9,15.0,Yevro,Panel,83505
+534,Yunusobod,103,4,4,5,6.3,O'rtacha,Panel,105478
+535,Mirzo Ulug'bek,94,4,4,4,16.0,O'rtacha,G'ishtli,106348
+536,Olmazor,88,3,5,5,17.7,O'rtacha,G'ishtli,68410
+537,Shayxontohur,46,1,3,4,5.9,Yevro,G'ishtli,70309
+538,Mirobod,41,2,4,4,4.4,Ta'mirsiz,G'ishtli,60057
+539,Mirobod,106,3,11,16,0.6,Yevro,Panel,160339
+540,Chilonzor,84,3,1,12,8.9,O'rtacha,G'ishtli,86684
+541,Sergeli,91,2,5,5,7.6,O'rtacha,Monolit,77640
+542,Yakkasaroy,50,2,3,4,0.8,O'rtacha,G'ishtli,72536
+543,Yunusobod,120,4,3,9,4.7,Yevro,Panel,132408
+544,Mirobod,76,2,7,20,3.0,O'rtacha,Panel,106103
+545,Yakkasaroy,45,2,5,9,3.2,O'rtacha,G'ishtli,66255
+546,Mirzo Ulug'bek,107,3,8,12,6.6,Yevro,Panel,123955
+547,Yunusobod,111,4,3,5,11.5,Yevro,Panel,116919
+548,Chilonzor,79,3,1,4,15.5,O'rtacha,Monolit,85982
+549,Yunusobod,94,3,9,9,6.7,Yevro,G'ishtli,111394
+550,Yunusobod,56,3,6,9,15.5,O'rtacha,G'ishtli,50114
+551,Yunusobod,67,1,2,4,13.3,Yevro,Panel,63467
+552,Yunusobod,60,3,4,20,7.0,O'rtacha,Panel,57233
+553,Mirzo Ulug'bek,73,1,2,5,8.3,Ta'mirsiz,G'ishtli,67250
+554,Mirzo Ulug'bek,84,3,5,5,2.6,Yevro,Panel,106474
+555,Yakkasaroy,65,2,4,5,2.8,O'rtacha,G'ishtli,89105
+556,Olmazor,39,1,2,4,10.9,Yevro,Panel,27492
+557,Sergeli,109,4,3,5,14.7,Yevro,Panel,80841
+558,Olmazor,47,2,1,4,17.8,Ta'mirsiz,Monolit,32916
+559,Shayxontohur,93,2,3,5,3.6,Yevro,Panel,118080
+560,Shayxontohur,79,3,15,16,0.6,O'rtacha,G'ishtli,100968
+561,Mirzo Ulug'bek,46,1,6,9,2.8,Ta'mirsiz,Monolit,55829
+562,Yunusobod,81,3,2,5,1.4,O'rtacha,Panel,90953
+563,Mirzo Ulug'bek,77,2,4,4,7.4,Yevro,Panel,90289
+564,Mirobod,67,2,12,16,3.4,O'rtacha,G'ishtli,99055
+565,Olmazor,85,2,5,5,7.5,Yevro,G'ishtli,92069
+566,Mirobod,103,4,4,5,4.5,Yevro,Panel,153176
+567,Mirzo Ulug'bek,86,3,2,5,16.0,Yevro,G'ishtli,106436
+568,Chilonzor,87,3,6,16,2.8,O'rtacha,Monolit,103945
+569,Yakkasaroy,70,1,10,12,5.0,Ta'mirsiz,Panel,79156
+570,Yunusobod,91,3,5,12,14.7,Ta'mirsiz,Panel,75671
+571,Shayxontohur,50,2,8,12,4.1,Yevro,Panel,73387
+572,Mirobod,102,4,1,5,3.7,Yevro,Monolit,163303
+573,Yakkasaroy,69,2,4,4,1.0,O'rtacha,Panel,95453
+574,Chilonzor,89,3,5,5,2.7,O'rtacha,G'ishtli,97075
+575,Yunusobod,102,4,7,9,1.2,O'rtacha,Panel,103625
+576,Shayxontohur,83,3,2,4,2.2,O'rtacha,Panel,103196
+577,Chilonzor,121,4,7,9,11.5,Ta'mirsiz,G'ishtli,118375
+578,Mirobod,63,3,1,9,4.8,O'rtacha,G'ishtli,95260
+579,Chilonzor,58,2,1,5,4.7,Ta'mirsiz,Panel,49142
+580,Sergeli,62,2,7,9,10.2,Yevro,G'ishtli,52497
+581,Olmazor,87,2,4,5,17.0,Yevro,Monolit,80675
+582,Chilonzor,28,1,3,9,13.2,Yevro,Panel,34140
+583,Sergeli,46,1,6,9,17.2,Ta'mirsiz,G'ishtli,24801
+584,Yunusobod,68,2,4,4,2.9,O'rtacha,G'ishtli,74165
+585,Shayxontohur,47,1,7,9,4.8,Ta'mirsiz,G'ishtli,59264
+586,Yunusobod,78,2,1,5,7.6,Ta'mirsiz,Monolit,78873
+587,Yunusobod,71,3,4,9,10.4,O'rtacha,G'ishtli,74519
+588,Yakkasaroy,81,3,2,4,2.7,O'rtacha,G'ishtli,112227
+589,Olmazor,118,4,2,5,15.5,O'rtacha,Monolit,100345
+590,Chilonzor,60,2,3,5,13.2,O'rtacha,G'ishtli,55113
+591,Yakkasaroy,45,2,4,4,2.0,Yevro,G'ishtli,77843
+592,Sergeli,54,2,7,12,13.7,Ta'mirsiz,G'ishtli,30796
+593,Chilonzor,32,1,1,5,10.5,Ta'mirsiz,G'ishtli,29562
+594,Olmazor,118,4,11,12,8.6,Yevro,G'ishtli,112056
+595,Mirzo Ulug'bek,49,1,3,9,14.2,Ta'mirsiz,G'ishtli,42721
+596,Mirzo Ulug'bek,60,1,7,9,1.1,O'rtacha,Panel,70541
+597,Shayxontohur,46,1,1,9,0.9,O'rtacha,Panel,54995
+598,Yakkasaroy,77,2,2,4,4.4,O'rtacha,Panel,95134
+599,Olmazor,69,2,2,5,12.4,Yevro,Panel,66393
+600,Yakkasaroy,92,2,11,12,1.0,O'rtacha,Panel,126669
+601,Chilonzor,104,5,3,4,15.0,Yevro,G'ishtli,110940
+602,Shayxontohur,91,2,5,9,1.5,O'rtacha,G'ishtli,109092
+603,Mirobod,75,2,3,12,1.7,O'rtacha,Monolit,112361
+604,Shayxontohur,69,1,8,12,2.1,Yevro,Monolit,104950
+605,Chilonzor,85,3,5,5,1.5,O'rtacha,G'ishtli,93378
+606,Sergeli,89,3,4,4,12.3,Ta'mirsiz,Monolit,67637
+607,Yunusobod,61,2,3,4,15.5,Yevro,Monolit,73789
+608,Chilonzor,134,5,2,4,1.1,Ta'mirsiz,G'ishtli,144852
+609,Shayxontohur,32,2,1,4,4.4,Ta'mirsiz,Panel,38898
+610,Sergeli,45,1,12,16,16.6,O'rtacha,G'ishtli,27442
+611,Sergeli,35,1,1,9,13.8,Ta'mirsiz,G'ishtli,21160
+612,Chilonzor,124,3,4,4,7.2,Ta'mirsiz,Monolit,130880
+613,Sergeli,72,1,1,9,13.8,Ta'mirsiz,Monolit,46020
+614,Shayxontohur,94,4,2,5,5.3,O'rtacha,G'ishtli,115469
+615,Shayxontohur,64,2,4,9,5.6,O'rtacha,Monolit,86261
+616,Yakkasaroy,60,3,6,16,0.8,O'rtacha,Panel,87223
+617,Yakkasaroy,93,3,2,5,1.1,Yevro,Monolit,141014
+618,Chilonzor,39,1,5,5,14.1,Yevro,G'ishtli,42735
+619,Mirobod,40,1,3,4,4.7,Yevro,Panel,60328
+620,Mirzo Ulug'bek,100,5,10,12,14.7,O'rtacha,Panel,100514
+621,Olmazor,108,4,4,4,8.4,Yevro,Panel,98632
+622,Chilonzor,114,4,3,5,1.3,Yevro,Monolit,140557
+623,Mirobod,96,2,4,12,0.5,Ta'mirsiz,Panel,122774
+624,Shayxontohur,80,3,4,9,5.3,Yevro,G'ishtli,107749
+625,Mirzo Ulug'bek,79,4,5,12,7.9,O'rtacha,G'ishtli,98431
+626,Sergeli,87,2,3,9,12.6,O'rtacha,G'ishtli,60957
+627,Shayxontohur,95,2,3,5,5.4,Yevro,Panel,117257
+628,Chilonzor,61,3,1,4,8.6,O'rtacha,Panel,57836
+629,Yunusobod,76,3,2,4,2.5,O'rtacha,G'ishtli,96880
+630,Yunusobod,99,3,4,5,15.0,O'rtacha,G'ishtli,102045
+631,Chilonzor,78,2,10,12,14.4,O'rtacha,G'ishtli,73101
+632,Yunusobod,49,1,5,5,8.3,Yevro,Panel,47341
+633,Chilonzor,78,3,4,5,1.0,O'rtacha,G'ishtli,82729
+634,Chilonzor,69,2,2,5,8.3,Yevro,Panel,69942
+635,Sergeli,108,5,3,9,17.1,Yevro,Panel,89100
+636,Yakkasaroy,86,3,3,4,3.1,Yevro,G'ishtli,126900
+637,Mirzo Ulug'bek,73,2,2,4,3.7,O'rtacha,Monolit,97949
+638,Chilonzor,99,3,7,9,14.9,Yevro,Panel,88367
+639,Sergeli,109,5,5,5,15.8,O'rtacha,G'ishtli,90589
+640,Chilonzor,53,2,18,20,12.1,Ta'mirsiz,Panel,38604
+641,Olmazor,58,2,6,12,15.6,O'rtacha,Panel,37172
+642,Yakkasaroy,66,2,9,9,5.2,Ta'mirsiz,Panel,77145
+643,Yunusobod,81,3,4,5,2.1,O'rtacha,Panel,81541
+644,Yunusobod,72,2,7,9,1.6,Yevro,Panel,88747
+645,Mirzo Ulug'bek,111,5,7,9,10.9,Yevro,Panel,128503
+646,Mirzo Ulug'bek,70,3,7,9,9.9,O'rtacha,G'ishtli,80463
+647,Sergeli,28,2,2,16,10.4,Yevro,Panel,19619
+648,Mirzo Ulug'bek,131,5,9,9,3.3,O'rtacha,Panel,145496
+649,Chilonzor,115,4,2,4,11.7,O'rtacha,Monolit,120611
+650,Yakkasaroy,63,2,2,5,4.0,O'rtacha,Panel,80131
+651,Mirzo Ulug'bek,107,4,8,12,2.9,O'rtacha,Panel,126757
+652,Mirzo Ulug'bek,85,4,8,12,3.9,Ta'mirsiz,G'ishtli,105471
+653,Chilonzor,33,1,3,4,4.0,Yevro,G'ishtli,47608
+654,Mirzo Ulug'bek,93,3,2,4,8.5,Ta'mirsiz,Panel,93665
+655,Yakkasaroy,82,3,1,5,3.2,Yevro,Panel,114009
+656,Mirzo Ulug'bek,83,3,3,5,2.5,Yevro,Panel,112147
+657,Shayxontohur,64,3,2,4,2.9,Yevro,Panel,87581
+658,Mirzo Ulug'bek,90,2,4,5,10.2,O'rtacha,G'ishtli,98701
+659,Shayxontohur,122,5,3,5,1.9,Ta'mirsiz,Panel,143008
+660,Shayxontohur,75,2,3,9,1.2,O'rtacha,Panel,93719
+661,Mirobod,66,2,7,9,1.4,Yevro,G'ishtli,108770
+662,Yunusobod,68,2,3,5,12.7,Yevro,G'ishtli,77081
+663,Chilonzor,43,1,1,5,5.0,Yevro,Monolit,66101
+664,Sergeli,76,3,3,5,15.0,Ta'mirsiz,G'ishtli,57380
+665,Mirzo Ulug'bek,77,4,5,5,11.9,O'rtacha,G'ishtli,90111
+666,Yakkasaroy,94,4,12,16,3.8,Yevro,Panel,127358
+667,Mirzo Ulug'bek,46,1,3,5,12.2,Yevro,Panel,53975
+668,Sergeli,52,1,3,4,17.5,Yevro,G'ishtli,47166
+669,Shayxontohur,87,2,4,5,2.4,O'rtacha,Panel,100257
+670,Shayxontohur,70,3,6,9,4.1,Ta'mirsiz,Monolit,88747
+671,Mirzo Ulug'bek,59,1,1,5,12.8,O'rtacha,G'ishtli,61629
+672,Shayxontohur,60,2,3,5,3.7,O'rtacha,Panel,69714
+673,Mirzo Ulug'bek,32,2,1,4,14.5,O'rtacha,G'ishtli,33332
+674,Yunusobod,53,2,3,5,8.4,O'rtacha,G'ishtli,60839
+675,Yakkasaroy,64,3,1,4,3.6,O'rtacha,Panel,85843
+676,Olmazor,130,5,8,9,14.5,Yevro,Panel,111525
+677,Yunusobod,96,4,4,12,11.2,Ta'mirsiz,G'ishtli,94972
+678,Mirzo Ulug'bek,122,4,8,9,3.1,Yevro,Panel,142502
+679,Mirzo Ulug'bek,106,5,2,4,12.3,Yevro,Panel,120393
+680,Yunusobod,96,2,6,9,13.4,O'rtacha,Panel,86491
+681,Yakkasaroy,127,5,4,5,2.2,O'rtacha,G'ishtli,175173
+682,Shayxontohur,90,4,1,9,2.1,Yevro,Panel,118438
+683,Yunusobod,59,2,1,5,12.1,O'rtacha,G'ishtli,63171
+684,Sergeli,52,2,3,4,12.5,O'rtacha,G'ishtli,36775
+685,Mirzo Ulug'bek,71,2,5,12,5.2,O'rtacha,G'ishtli,82548
+686,Chilonzor,109,3,3,4,9.2,Ta'mirsiz,Panel,96299
+687,Mirobod,50,2,3,4,0.5,Yevro,Monolit,93719
+688,Sergeli,99,3,6,9,11.8,O'rtacha,Monolit,82414
+689,Mirzo Ulug'bek,44,2,5,5,3.5,Yevro,Monolit,75079
+690,Yunusobod,67,2,2,5,12.9,Ta'mirsiz,Monolit,63966
+691,Yunusobod,109,3,3,4,10.0,Ta'mirsiz,G'ishtli,107256
+692,Mirobod,71,2,12,16,2.2,O'rtacha,Monolit,108469
+693,Olmazor,28,1,5,5,8.2,O'rtacha,G'ishtli,33997
+694,Chilonzor,57,1,9,12,4.1,O'rtacha,Panel,54189
+695,Mirzo Ulug'bek,43,1,5,5,1.6,Yevro,Panel,56012
+696,Chilonzor,93,3,6,12,13.1,Ta'mirsiz,Monolit,87950
+697,Yunusobod,61,2,1,4,11.1,O'rtacha,Monolit,68785
+698,Yunusobod,70,2,2,9,2.4,O'rtacha,G'ishtli,83933
+699,Chilonzor,41,1,13,16,1.9,Yevro,Monolit,55510
+700,Yakkasaroy,75,3,10,12,4.0,O'rtacha,G'ishtli,100834
+701,Yunusobod,91,3,5,5,5.5,Yevro,G'ishtli,106763
+702,Yunusobod,44,1,1,4,3.5,O'rtacha,Panel,41245
+703,Yunusobod,65,3,2,4,15.0,Yevro,G'ishtli,66346
+704,Shayxontohur,28,2,2,12,3.2,Yevro,G'ishtli,60580
+705,Mirzo Ulug'bek,57,1,1,5,10.6,Yevro,G'ishtli,69876
+706,Sergeli,94,2,4,12,17.2,O'rtacha,G'ishtli,63372
+707,Olmazor,41,2,1,4,9.3,O'rtacha,Panel,39020
+708,Mirzo Ulug'bek,99,4,1,4,10.7,O'rtacha,G'ishtli,109754
+709,Mirzo Ulug'bek,102,4,4,9,5.5,Ta'mirsiz,Monolit,118997
+710,Chilonzor,91,2,3,5,11.6,Ta'mirsiz,Panel,71783
+711,Mirzo Ulug'bek,90,3,3,5,11.5,Ta'mirsiz,Panel,79226
+712,Mirobod,69,2,4,4,5.2,O'rtacha,G'ishtli,104376
+713,Chilonzor,105,4,2,4,12.2,Ta'mirsiz,Panel,81139
+714,Mirzo Ulug'bek,52,2,6,12,8.0,Ta'mirsiz,G'ishtli,63033
+715,Chilonzor,69,3,1,5,9.6,O'rtacha,Monolit,74685
+716,Chilonzor,86,3,4,4,6.1,O'rtacha,Panel,81124
+717,Shayxontohur,84,3,1,12,0.7,Ta'mirsiz,G'ishtli,101877
+718,Yakkasaroy,86,3,4,9,5.9,O'rtacha,G'ishtli,120748
+719,Yakkasaroy,41,2,9,12,3.0,O'rtacha,Panel,63630
+720,Mirzo Ulug'bek,80,3,9,12,12.9,Yevro,Panel,88559
+721,Olmazor,29,1,10,16,9.7,Ta'mirsiz,Monolit,18000
+722,Yunusobod,124,4,7,16,5.9,O'rtacha,G'ishtli,129940
+723,Yunusobod,124,3,1,9,8.5,Yevro,Panel,125765
+724,Yakkasaroy,50,2,3,4,3.7,O'rtacha,G'ishtli,63646
+725,Chilonzor,80,2,2,4,6.2,O'rtacha,Panel,76767
+726,Yunusobod,60,2,5,9,10.9,O'rtacha,Monolit,62018
+727,Olmazor,43,1,8,9,15.8,Yevro,Panel,31748
+728,Yakkasaroy,69,2,2,5,2.0,Yevro,Monolit,115417
+729,Yakkasaroy,114,3,3,12,1.6,Ta'mirsiz,Panel,141606
+730,Chilonzor,56,3,1,5,11.7,O'rtacha,G'ishtli,60459
+731,Yunusobod,44,1,4,5,13.3,O'rtacha,Panel,36235
+732,Yunusobod,69,3,6,9,8.4,O'rtacha,Panel,68492
+733,Sergeli,87,4,14,16,15.9,O'rtacha,G'ishtli,64830
+734,Sergeli,75,3,15,16,15.6,O'rtacha,G'ishtli,49303
+735,Chilonzor,64,3,3,12,2.5,O'rtacha,Panel,64733
+736,Yakkasaroy,83,4,1,4,2.5,Yevro,Panel,118567
+737,Yunusobod,28,1,8,12,7.2,Ta'mirsiz,Monolit,30728
+738,Olmazor,68,1,4,5,7.1,O'rtacha,Monolit,66661
+739,Yunusobod,72,1,4,5,7.5,Yevro,Panel,79351
+740,Chilonzor,53,2,8,9,15.5,O'rtacha,G'ishtli,49259
+741,Yunusobod,78,4,2,16,3.3,Ta'mirsiz,Monolit,90757
+742,Olmazor,41,1,1,5,17.8,Ta'mirsiz,Panel,20751
+743,Shayxontohur,66,2,2,5,5.8,O'rtacha,G'ishtli,73524
+744,Shayxontohur,112,5,9,9,0.8,Yevro,Monolit,159333
+745,Mirzo Ulug'bek,30,2,1,4,13.6,O'rtacha,G'ishtli,34496
+746,Shayxontohur,97,3,5,5,5.8,Ta'mirsiz,Panel,107305
+747,Olmazor,62,2,5,5,17.6,O'rtacha,G'ishtli,50357
+748,Mirobod,51,2,3,5,1.8,O'rtacha,Panel,74299
+749,Chilonzor,92,2,5,16,9.5,Yevro,Monolit,100285
+750,Chilonzor,107,4,5,9,7.3,Yevro,G'ishtli,120949
+751,Shayxontohur,70,1,13,20,3.5,Yevro,Panel,91547
+752,Shayxontohur,50,2,1,4,2.6,Yevro,Panel,74591
+753,Yakkasaroy,102,3,3,5,1.2,Yevro,Panel,147952
+754,Shayxontohur,75,3,11,12,3.7,O'rtacha,G'ishtli,105998
+755,Yunusobod,121,3,3,4,13.1,O'rtacha,G'ishtli,115944
+756,Chilonzor,98,2,3,9,7.9,O'rtacha,Panel,83098
+757,Mirobod,83,3,4,9,1.9,Ta'mirsiz,Panel,106881
+758,Yunusobod,69,2,1,4,7.5,Yevro,Panel,75895
+759,Yunusobod,67,2,3,4,10.9,Yevro,Panel,68044
+760,Sergeli,76,4,2,5,7.4,Ta'mirsiz,Panel,60161
+761,Shayxontohur,106,4,3,5,4.1,Yevro,Panel,131964
+762,Shayxontohur,52,2,1,12,5.8,Yevro,Monolit,81825
+763,Olmazor,40,1,6,12,14.2,O'rtacha,G'ishtli,24971
+764,Yunusobod,76,3,3,4,13.8,Yevro,Panel,76860
+765,Yunusobod,70,2,3,16,6.9,O'rtacha,Panel,63828
+766,Olmazor,52,2,15,16,13.6,O'rtacha,Monolit,49767
+767,Yakkasaroy,79,4,5,12,2.3,O'rtacha,Monolit,113802
+768,Mirzo Ulug'bek,28,1,3,9,12.2,O'rtacha,G'ishtli,29510
+769,Mirobod,51,3,1,4,2.0,O'rtacha,Panel,79294
+770,Sergeli,99,3,9,9,11.3,Yevro,G'ishtli,90183
+771,Chilonzor,92,3,5,5,15.2,O'rtacha,Panel,75179
+772,Mirzo Ulug'bek,75,3,1,4,13.1,O'rtacha,Panel,69652
+773,Yunusobod,34,2,8,16,5.0,O'rtacha,G'ishtli,39887
+774,Chilonzor,82,3,1,5,14.7,O'rtacha,Panel,64058
+775,Shayxontohur,72,2,5,16,5.0,O'rtacha,Panel,90184
+776,Shayxontohur,98,2,4,4,5.5,Yevro,Panel,115572
+777,Olmazor,85,3,1,9,16.2,O'rtacha,G'ishtli,74720
+778,Olmazor,59,2,5,5,14.5,O'rtacha,G'ishtli,49334
+779,Sergeli,137,5,7,9,14.3,Yevro,G'ishtli,114852
+780,Yakkasaroy,71,2,8,9,4.0,Yevro,Panel,273910
+781,Chilonzor,79,4,9,9,13.1,Yevro,G'ishtli,92369
+782,Shayxontohur,77,3,5,9,2.5,Yevro,Panel,101956
+783,Yunusobod,83,4,5,9,8.8,O'rtacha,Panel,89291
+784,Chilonzor,133,5,1,5,2.2,O'rtacha,Panel,137306
+785,Yakkasaroy,58,3,1,12,1.2,O'rtacha,Panel,81648
+786,Yunusobod,41,1,9,9,1.3,O'rtacha,Panel,50236
+787,Chilonzor,42,1,13,16,1.9,Ta'mirsiz,G'ishtli,43496
+788,Shayxontohur,71,1,1,5,3.6,Ta'mirsiz,G'ishtli,81337
+789,Mirobod,116,3,11,16,5.0,Yevro,Panel,175436
+790,Shayxontohur,45,1,4,5,4.9,Ta'mirsiz,G'ishtli,54896
+791,Shayxontohur,101,3,6,9,1.2,O'rtacha,G'ishtli,124341
+792,Mirobod,105,3,18,20,3.7,Ta'mirsiz,Monolit,158024
+793,Yunusobod,54,2,2,5,8.5,O'rtacha,G'ishtli,58088
+794,Yunusobod,92,3,4,5,7.4,Ta'mirsiz,Panel,91390
+795,Chilonzor,74,2,1,9,14.8,Yevro,Panel,71758
+796,Mirzo Ulug'bek,107,3,5,5,15.0,Yevro,G'ishtli,127775
+797,Mirobod,57,1,1,5,5.2,Yevro,G'ishtli,90984
+798,Yakkasaroy,28,1,2,9,3.9,O'rtacha,G'ishtli,38831
+799,Mirzo Ulug'bek,114,4,9,9,13.8,Ta'mirsiz,G'ishtli,118122
+800,Mirzo Ulug'bek,79,2,16,16,8.8,O'rtacha,G'ishtli,89057
+801,Mirzo Ulug'bek,79,3,3,9,1.8,O'rtacha,Panel,97107
+802,Olmazor,83,3,1,5,12.6,Yevro,Panel,71043
+803,Olmazor,34,1,4,5,11.4,O'rtacha,G'ishtli,26474
+804,Yunusobod,77,3,2,4,10.7,O'rtacha,Panel,76705
+805,Shayxontohur,75,3,1,5,4.5,O'rtacha,Monolit,97396
+806,Mirzo Ulug'bek,68,2,4,5,13.7,O'rtacha,Panel,70100
+807,Mirzo Ulug'bek,102,4,4,5,8.1,Yevro,G'ishtli,127162
+808,Mirzo Ulug'bek,69,2,7,9,1.5,Yevro,G'ishtli,102182
+809,Mirzo Ulug'bek,55,2,3,5,15.6,Yevro,G'ishtli,67924
+810,Olmazor,84,2,3,5,15.5,O'rtacha,G'ishtli,69211
+811,Mirzo Ulug'bek,29,1,1,4,6.3,O'rtacha,Monolit,46617
+812,Olmazor,90,3,2,12,7.9,O'rtacha,Panel,80141
+813,Olmazor,86,3,3,9,16.9,Yevro,G'ishtli,85503
+814,Olmazor,44,2,3,5,15.0,O'rtacha,G'ishtli,35756
+815,Mirzo Ulug'bek,70,2,2,4,13.6,Yevro,Panel,69014
+816,Yunusobod,51,1,4,16,5.0,Yevro,Panel,55413
+817,Shayxontohur,49,2,3,4,2.7,Yevro,Panel,65059
+818,Chilonzor,70,2,2,5,4.2,O'rtacha,Panel,72983
+819,Shayxontohur,58,2,1,4,3.0,O'rtacha,G'ishtli,74664
+820,Mirzo Ulug'bek,61,2,2,4,4.5,Yevro,Panel,82837
+821,Yunusobod,78,2,1,4,7.7,Ta'mirsiz,Monolit,87291
+822,Chilonzor,71,3,4,5,11.3,Ta'mirsiz,G'ishtli,65357
+823,Shayxontohur,96,2,3,4,2.7,Ta'mirsiz,G'ishtli,113001
+824,Yunusobod,128,5,6,12,7.1,O'rtacha,Panel,124400
+825,Yakkasaroy,81,4,4,12,2.5,O'rtacha,Panel,115112
+826,Shayxontohur,70,2,2,4,3.4,Ta'mirsiz,G'ishtli,89788
+827,Chilonzor,93,3,9,16,6.7,Ta'mirsiz,Monolit,92963
+828,Mirzo Ulug'bek,96,3,3,5,5.4,Ta'mirsiz,Panel,104359
+829,Shayxontohur,98,3,3,4,5.9,O'rtacha,Monolit,122368
+830,Chilonzor,65,2,5,9,10.1,Ta'mirsiz,G'ishtli,61559
+831,Yunusobod,113,4,2,4,14.1,O'rtacha,Panel,109152
+832,Mirobod,69,2,4,12,5.0,Yevro,Monolit,116685
+833,Mirzo Ulug'bek,93,3,2,4,8.3,O'rtacha,Monolit,118980
+834,Chilonzor,59,1,4,5,13.2,Ta'mirsiz,Panel,47224
+835,Olmazor,64,1,5,5,10.7,Ta'mirsiz,Panel,44224
+836,Mirzo Ulug'bek,97,3,5,5,5.9,Yevro,G'ishtli,123477
+837,Yunusobod,57,1,1,9,7.0,Ta'mirsiz,G'ishtli,56746
+838,Chilonzor,71,1,1,9,3.4,O'rtacha,G'ishtli,74113
+839,Yunusobod,82,4,1,4,11.8,Ta'mirsiz,Panel,71085
+840,Olmazor,92,3,1,5,13.5,O'rtacha,G'ishtli,70479
+841,Yunusobod,71,2,2,4,14.6,Yevro,G'ishtli,74049
+842,Shayxontohur,73,2,12,12,1.7,O'rtacha,Monolit,98280
+843,Sergeli,52,2,5,5,8.1,Yevro,G'ishtli,57962
+844,Chilonzor,89,2,1,5,13.2,Yevro,Panel,81698
+845,Shayxontohur,55,1,1,5,3.4,O'rtacha,Panel,62283
+846,Yakkasaroy,61,1,10,16,5.0,O'rtacha,G'ishtli,79432
+847,Chilonzor,87,3,3,12,1.9,Yevro,Panel,98781
+848,Mirobod,50,1,6,9,3.3,Yevro,G'ishtli,88313
+849,Chilonzor,52,2,7,9,8.0,Yevro,G'ishtli,58136
+850,Mirzo Ulug'bek,61,2,5,9,11.6,Yevro,Panel,65611
+851,Olmazor,116,4,11,16,11.7,O'rtacha,Panel,93666
+852,Yunusobod,108,3,6,12,2.7,Yevro,G'ishtli,137418
+853,Chilonzor,128,6,2,4,1.5,Ta'mirsiz,Panel,126840
+854,Yunusobod,73,2,1,4,16.0,Ta'mirsiz,G'ishtli,67059
+855,Mirzo Ulug'bek,67,2,1,5,10.2,Yevro,G'ishtli,91954
+856,Shayxontohur,28,1,3,4,3.7,O'rtacha,Panel,38962
+857,Chilonzor,80,3,13,16,11.5,Yevro,Panel,85864
+858,Chilonzor,92,3,2,5,7.6,Ta'mirsiz,Monolit,97260
+859,Sergeli,64,3,4,9,11.7,Yevro,G'ishtli,66025
+860,Mirobod,58,1,1,4,4.8,O'rtacha,Panel,67926
+861,Mirzo Ulug'bek,93,3,4,4,12.7,Yevro,Panel,105404
+862,Chilonzor,84,2,3,5,13.9,Ta'mirsiz,G'ishtli,66881
+863,Shayxontohur,77,2,16,20,1.9,O'rtacha,G'ishtli,99112
+864,Chilonzor,91,2,1,4,11.4,O'rtacha,Monolit,94786
+865,Chilonzor,64,2,5,9,11.2,O'rtacha,Panel,56212
+866,Yunusobod,96,3,5,5,1.0,Yevro,G'ishtli,109669
+867,Olmazor,98,3,4,4,8.7,O'rtacha,Panel,85900
+868,Mirobod,98,2,4,4,1.8,Yevro,Panel,146632
+869,Mirobod,64,2,6,9,1.3,Yevro,Monolit,115322
+870,Olmazor,106,4,11,12,11.0,Ta'mirsiz,Monolit,98723
+871,Shayxontohur,47,1,5,5,5.6,O'rtacha,Panel,56781
+872,Shayxontohur,74,2,3,4,2.7,O'rtacha,Monolit,95668
+873,Yakkasaroy,80,3,5,9,5.4,O'rtacha,Monolit,118858
+874,Chilonzor,81,3,4,4,13.2,Ta'mirsiz,Panel,68975
+875,Olmazor,81,3,9,12,14.5,Yevro,Panel,67700
+876,Chilonzor,82,4,11,12,8.2,O'rtacha,Monolit,94123
+877,Yunusobod,73,1,5,5,3.8,Yevro,Monolit,96696
+878,Chilonzor,62,2,2,5,12.5,Ta'mirsiz,G'ishtli,53236
+879,Sergeli,126,6,5,9,11.4,Ta'mirsiz,Panel,91727
+880,Chilonzor,43,1,9,12,8.4,O'rtacha,Panel,29424
+881,Mirzo Ulug'bek,47,1,19,20,14.1,O'rtacha,Monolit,54983
+882,Yunusobod,75,4,7,12,1.1,O'rtacha,G'ishtli,87585
+883,Mirzo Ulug'bek,35,2,3,9,9.0,Ta'mirsiz,Panel,29970
+884,Mirzo Ulug'bek,113,5,2,9,7.3,Yevro,G'ishtli,151114
+885,Yunusobod,78,3,2,5,10.7,O'rtacha,Monolit,88651
+886,Yunusobod,117,4,3,5,3.2,Ta'mirsiz,Panel,108005
+887,Olmazor,72,1,3,4,12.6,O'rtacha,G'ishtli,58639
+888,Chilonzor,82,2,6,9,0.9,Ta'mirsiz,G'ishtli,93228
+889,Shayxontohur,120,4,4,4,3.4,Yevro,Panel,147955
+890,Mirzo Ulug'bek,86,3,6,12,8.0,O'rtacha,Monolit,105175
+891,Yunusobod,75,3,12,12,8.4,Yevro,Panel,76766
+892,Shayxontohur,87,4,8,12,0.7,Yevro,Monolit,134051
+893,Sergeli,61,3,5,5,11.4,Yevro,G'ishtli,54993
+894,Chilonzor,76,4,1,4,5.1,O'rtacha,Panel,83062
+895,Yakkasaroy,38,1,3,4,3.3,O'rtacha,G'ishtli,63887
+896,Mirobod,100,3,1,5,5.1,O'rtacha,G'ishtli,146021
+897,Mirzo Ulug'bek,61,3,1,4,4.6,Yevro,Panel,82035
+898,Chilonzor,45,1,5,16,4.8,O'rtacha,Panel,40920
+899,Yunusobod,66,2,1,4,6.1,Ta'mirsiz,G'ishtli,66065
+900,Yakkasaroy,62,2,4,4,4.2,Ta'mirsiz,G'ishtli,68194
+901,Yunusobod,28,1,2,4,12.4,O'rtacha,G'ishtli,27520
+902,Shayxontohur,67,2,12,12,1.2,Yevro,Panel,96359
+903,Shayxontohur,91,3,4,4,2.4,Yevro,Monolit,137622
+904,Shayxontohur,68,2,6,9,5.1,O'rtacha,G'ishtli,81943
+905,Mirzo Ulug'bek,141,6,1,5,1.5,O'rtacha,Monolit,177933
+906,Chilonzor,70,2,7,9,15.9,O'rtacha,G'ishtli,61164
+907,Chilonzor,72,3,3,5,7.2,O'rtacha,G'ishtli,80046
+908,Sergeli,83,2,3,5,11.6,O'rtacha,Panel,59226
+909,Shayxontohur,68,3,2,4,1.3,O'rtacha,Monolit,96498
+910,Yakkasaroy,62,2,4,5,4.3,O'rtacha,Panel,78220
+911,Mirzo Ulug'bek,82,3,5,16,9.9,O'rtacha,G'ishtli,93125
+912,Mirobod,92,3,9,9,3.8,O'rtacha,Panel,124995
+913,Chilonzor,41,1,1,4,13.0,Yevro,Panel,37642
+914,Sergeli,126,5,7,9,13.8,Ta'mirsiz,G'ishtli,87213
+915,Yakkasaroy,64,1,4,4,4.5,Yevro,G'ishtli,100054
+916,Chilonzor,68,2,8,16,7.8,O'rtacha,Monolit,77465
+917,Yunusobod,89,4,2,4,9.3,Yevro,G'ishtli,104382
+918,Yakkasaroy,43,1,9,9,3.9,Ta'mirsiz,G'ishtli,52270
+919,Shayxontohur,78,2,5,5,3.5,O'rtacha,Panel,96604
+920,Mirzo Ulug'bek,28,1,3,9,10.6,Yevro,Panel,36487
+921,Mirobod,83,3,5,9,2.4,O'rtacha,G'ishtli,129041
+922,Sergeli,100,3,1,9,9.8,O'rtacha,Monolit,75930
+923,Mirzo Ulug'bek,125,6,3,9,2.2,O'rtacha,Panel,145851
+924,Shayxontohur,90,3,3,4,3.3,O'rtacha,Panel,105314
+925,Chilonzor,84,2,1,9,8.7,O'rtacha,Panel,69125
+926,Chilonzor,67,1,7,9,6.8,O'rtacha,Monolit,65197
+927,Chilonzor,51,3,8,16,11.6,Yevro,Panel,49137
+928,Sergeli,77,3,11,12,12.6,Yevro,G'ishtli,60327
+929,Mirzo Ulug'bek,82,4,13,16,11.7,O'rtacha,G'ishtli,91651
+930,Yunusobod,28,1,19,20,5.8,Yevro,G'ishtli,43689
+931,Yakkasaroy,56,2,3,4,3.3,Ta'mirsiz,G'ishtli,75076
+932,Mirzo Ulug'bek,78,2,13,16,2.7,Yevro,G'ishtli,112480
+933,Sergeli,93,4,4,5,12.9,O'rtacha,G'ishtli,70058
+934,Mirobod,72,2,8,9,2.7,Ta'mirsiz,Panel,98064
+935,Mirobod,80,3,5,5,1.9,O'rtacha,Panel,106271
+936,Yunusobod,76,3,1,5,1.3,Yevro,Panel,95990
+937,Chilonzor,86,2,5,5,10.4,Ta'mirsiz,Panel,72334
+938,Mirobod,115,4,13,16,4.0,O'rtacha,G'ishtli,170002
+939,Yunusobod,28,1,1,12,4.8,O'rtacha,G'ishtli,38281
+940,Yunusobod,59,2,2,5,9.4,Yevro,Panel,61990
+941,Shayxontohur,101,4,4,4,5.7,Ta'mirsiz,Monolit,129369
+942,Sergeli,38,2,4,12,8.7,O'rtacha,Panel,26259
+943,Yakkasaroy,93,2,9,16,4.3,O'rtacha,Panel,115112
+944,Sergeli,33,1,5,5,15.7,O'rtacha,Panel,18000
+945,Yunusobod,97,3,16,16,12.0,O'rtacha,G'ishtli,97346
+946,Chilonzor,63,2,2,4,5.9,Yevro,Panel,71355
+947,Shayxontohur,73,3,4,4,3.0,Yevro,G'ishtli,114220
+948,Shayxontohur,67,3,5,5,2.5,Ta'mirsiz,G'ishtli,87243
+949,Mirzo Ulug'bek,100,5,2,4,1.5,Yevro,G'ishtli,143945
+950,Yunusobod,103,4,1,9,2.0,Ta'mirsiz,Monolit,120544
+951,Chilonzor,71,3,4,9,11.8,Yevro,Panel,69324
+952,Sergeli,40,1,13,16,12.9,O'rtacha,Monolit,30625
+953,Chilonzor,53,1,2,4,12.8,Yevro,G'ishtli,58319
+954,Chilonzor,96,2,9,9,6.1,Yevro,G'ishtli,103681
+955,Olmazor,70,2,5,5,10.9,Yevro,Panel,73495
+956,Mirzo Ulug'bek,56,2,5,5,13.1,O'rtacha,Panel,55454
+957,Chilonzor,110,3,9,9,9.8,O'rtacha,G'ishtli,104708
+958,Mirzo Ulug'bek,40,1,3,5,14.2,Yevro,G'ishtli,47626
+959,Yunusobod,68,1,1,12,12.8,Ta'mirsiz,G'ishtli,60996
+960,Chilonzor,77,3,5,12,1.6,Yevro,Panel,86100
+961,Sergeli,110,3,2,9,16.6,Yevro,G'ishtli,90586
+962,Chilonzor,62,3,2,4,13.2,O'rtacha,G'ishtli,61125
+963,Mirobod,94,3,2,4,0.6,O'rtacha,Panel,128688
+964,Chilonzor,67,1,1,4,9.9,Yevro,Panel,63818
+965,Chilonzor,55,2,7,16,4.8,O'rtacha,Panel,53645
+966,Yakkasaroy,99,2,16,20,5.6,O'rtacha,Panel,129068
+967,Yunusobod,52,1,4,5,11.7,Yevro,G'ishtli,63898
+968,Chilonzor,106,3,3,5,3.1,O'rtacha,Monolit,124595
+969,Yunusobod,80,4,4,9,5.4,Ta'mirsiz,G'ishtli,85413
+970,Shayxontohur,109,5,1,5,5.5,O'rtacha,G'ishtli,137756
+971,Yunusobod,61,1,7,12,5.2,O'rtacha,Panel,57961
+972,Chilonzor,131,5,1,9,11.6,Yevro,Panel,132022
+973,Mirzo Ulug'bek,88,3,5,16,8.7,O'rtacha,Panel,93666
+974,Mirobod,77,2,4,5,1.3,Yevro,Panel,115198
+975,Mirzo Ulug'bek,80,3,5,9,5.7,O'rtacha,Monolit,108399
+976,Yunusobod,85,2,1,4,6.2,O'rtacha,Monolit,95191
+977,Sergeli,37,1,4,5,7.4,O'rtacha,G'ishtli,24784
+978,Mirzo Ulug'bek,56,1,3,4,1.3,O'rtacha,Monolit,75216
+979,Yunusobod,85,3,10,12,10.6,Yevro,Panel,89763
+980,Sergeli,80,3,3,5,10.7,O'rtacha,Monolit,66790
+981,Yunusobod,91,3,2,4,11.6,Yevro,G'ishtli,98974
+982,Yunusobod,46,1,5,5,15.1,Ta'mirsiz,G'ishtli,36692
+983,Mirzo Ulug'bek,84,3,3,5,4.8,O'rtacha,Panel,92162
+984,Mirzo Ulug'bek,104,5,8,9,8.3,Yevro,Panel,128888
+985,Mirzo Ulug'bek,86,4,12,16,11.5,Yevro,G'ishtli,108875
+986,Mirzo Ulug'bek,70,2,11,12,6.7,Yevro,Panel,82401
+987,Mirobod,46,2,3,12,4.9,Ta'mirsiz,Panel,62254
+988,Mirzo Ulug'bek,28,1,7,9,6.5,O'rtacha,Panel,29007
+989,Yunusobod,102,5,5,5,8.1,O'rtacha,Monolit,129053
+990,Chilonzor,102,4,2,5,4.7,Yevro,G'ishtli,121382
+991,Chilonzor,92,3,1,4,7.7,O'rtacha,G'ishtli,90413
+992,Mirzo Ulug'bek,76,3,2,4,8.0,Yevro,Panel,87727
+993,Sergeli,28,1,5,5,11.2,Ta'mirsiz,Monolit,29187
+994,Yunusobod,57,3,5,5,8.7,Yevro,Panel,68804
+995,Mirzo Ulug'bek,90,3,2,5,15.5,Ta'mirsiz,Monolit,95991
+996,Yunusobod,50,1,1,4,8.1,Yevro,Panel,62680
+997,Shayxontohur,69,2,4,5,1.3,Ta'mirsiz,Panel,84991
+998,Mirzo Ulug'bek,93,3,9,9,13.5,O'rtacha,Panel,91524
+999,Yunusobod,46,1,5,16,12.8,Yevro,G'ishtli,57389
+1000,Shayxontohur,103,4,5,9,1.9,Yevro,G'ishtli,140624
+1001,Olmazor,89,3,3,4,9.0,O'rtacha,G'ishtli,76651
+1002,Shayxontohur,107,4,4,4,2.8,Yevro,Monolit,162429
+1003,Mirobod,113,3,2,9,3.3,Yevro,G'ishtli,172436
+1004,Chilonzor,121,5,1,5,15.0,Yevro,G'ishtli,126287
+1005,Yunusobod,84,3,11,20,12.8,O'rtacha,Panel,73700
+1006,Yunusobod,70,1,2,4,5.3,Ta'mirsiz,Panel,62901
+1007,Yunusobod,107,4,2,12,11.1,Yevro,Panel,107723
+1008,Yakkasaroy,33,1,1,4,4.5,O'rtacha,Monolit,48288
+1009,Olmazor,95,4,1,4,17.9,Yevro,Panel,76586
+1010,Sergeli,80,2,6,12,16.9,O'rtacha,Panel,43812
+1011,Olmazor,28,1,7,20,11.0,O'rtacha,Panel,18000
+1012,Chilonzor,41,2,2,5,3.5,Yevro,Panel,51523
+1013,Yunusobod,28,1,6,9,12.0,O'rtacha,Panel,19212
+1014,Mirobod,78,4,2,4,1.5,Yevro,Panel,121641
+1015,Sergeli,94,4,3,5,9.4,Ta'mirsiz,Panel,68335
+1016,Mirzo Ulug'bek,69,3,1,5,14.6,O'rtacha,Panel,69324
+1017,Chilonzor,70,1,16,16,4.8,Ta'mirsiz,G'ishtli,74423
+1018,Yunusobod,81,3,9,20,8.9,Yevro,Panel,92714
+1019,Sergeli,91,4,7,9,17.5,O'rtacha,Panel,51639
+1020,Sergeli,49,1,2,4,7.9,Yevro,Panel,45361
+1021,Mirzo Ulug'bek,89,3,2,5,6.7,Yevro,G'ishtli,104109
+1022,Shayxontohur,89,4,5,5,4.7,Ta'mirsiz,G'ishtli,112000
+1023,Shayxontohur,82,2,4,5,5.9,Ta'mirsiz,G'ishtli,93645
+1024,Mirzo Ulug'bek,37,1,1,5,2.7,O'rtacha,Panel,36700
+1025,Olmazor,28,1,5,5,16.0,O'rtacha,G'ishtli,21428
+1026,Olmazor,68,2,4,4,9.8,O'rtacha,Panel,54066
+1027,Yakkasaroy,102,3,8,9,4.7,O'rtacha,Monolit,139700
+1028,Mirzo Ulug'bek,77,3,8,9,9.3,O'rtacha,Monolit,92417
+1029,Mirobod,70,1,5,5,2.0,O'rtacha,G'ishtli,102999
+1030,Mirobod,43,2,3,4,3.6,Yevro,Monolit,87984
+1031,Yunusobod,60,1,4,12,6.4,Yevro,Panel,75908
+1032,Shayxontohur,101,3,2,9,1.5,Ta'mirsiz,Monolit,115818
+1033,Chilonzor,38,1,7,9,10.7,O'rtacha,Panel,30734
+1034,Mirobod,87,3,1,4,2.0,Yevro,Panel,136293
+1035,Olmazor,98,3,7,9,13.8,Yevro,G'ishtli,96162
+1036,Chilonzor,100,5,1,5,6.6,O'rtacha,Panel,98309
+1037,Yakkasaroy,68,2,2,9,3.2,Yevro,Panel,106775
+1038,Chilonzor,73,1,4,4,3.4,Yevro,Panel,86859
+1039,Chilonzor,53,2,1,5,2.4,O'rtacha,G'ishtli,70752
+1040,Chilonzor,96,3,5,5,1.3,O'rtacha,Monolit,117291
+1041,Chilonzor,78,3,4,5,3.5,O'rtacha,Panel,79275
+1042,Mirzo Ulug'bek,56,3,3,5,13.5,O'rtacha,Panel,51859
+1043,Chilonzor,51,2,5,5,14.1,O'rtacha,G'ishtli,53848
+1044,Yunusobod,64,2,4,5,11.9,O'rtacha,Panel,62527
+1045,Chilonzor,42,1,4,5,8.7,O'rtacha,G'ishtli,41691
+1046,Shayxontohur,57,2,1,4,1.4,Yevro,G'ishtli,91121
+1047,Shayxontohur,108,4,7,12,5.2,O'rtacha,Monolit,142106
+1048,Shayxontohur,43,1,5,12,2.1,Yevro,Monolit,73992
+1049,Yakkasaroy,98,2,4,5,3.3,Yevro,Monolit,147113
+1050,Yakkasaroy,57,3,1,5,3.5,Yevro,Panel,253511
+1051,Mirobod,86,4,4,5,4.3,Yevro,G'ishtli,136051
+1052,Shayxontohur,84,2,6,9,2.0,Yevro,Panel,108359
+1053,Chilonzor,71,3,4,5,10.1,O'rtacha,Panel,62473
+1054,Mirzo Ulug'bek,102,4,4,16,7.3,O'rtacha,G'ishtli,122489
+1055,Shayxontohur,63,2,1,12,3.7,O'rtacha,Panel,75076
+1056,Yunusobod,96,4,9,20,4.4,Ta'mirsiz,G'ishtli,100134
+1057,Olmazor,63,3,5,5,13.1,Yevro,Panel,52739
+1058,Yunusobod,59,2,8,9,4.3,O'rtacha,Monolit,69953
+1059,Yunusobod,57,2,1,12,12.0,Ta'mirsiz,Panel,48518
+1060,Mirzo Ulug'bek,94,3,4,4,8.2,O'rtacha,Panel,100801
+1061,Mirzo Ulug'bek,100,4,3,9,12.5,Yevro,Panel,108481
+1062,Mirobod,104,4,3,9,3.8,O'rtacha,Monolit,154073
+1063,Yakkasaroy,62,2,3,5,0.8,Ta'mirsiz,Panel,78267
+1064,Olmazor,67,3,8,9,16.8,Ta'mirsiz,Panel,40403
+1065,Mirobod,63,2,3,9,3.9,Yevro,Monolit,111794
+1066,Chilonzor,90,3,4,5,3.1,O'rtacha,Panel,83767
+1067,Yunusobod,80,3,3,5,3.2,O'rtacha,Panel,79233
+1068,Yakkasaroy,102,5,1,4,5.1,Yevro,Panel,139802
+1069,Mirobod,106,4,6,9,1.3,Ta'mirsiz,Monolit,159796
+1070,Mirobod,97,3,13,16,3.1,Ta'mirsiz,Panel,124234
+1071,Olmazor,44,1,5,5,13.4,Yevro,Panel,32988
+1072,Mirobod,47,1,3,12,3.4,O'rtacha,Monolit,68137
+1073,Yunusobod,96,3,7,9,8.4,Ta'mirsiz,Panel,88293
+1074,Sergeli,79,3,2,9,7.1,Yevro,G'ishtli,80615
+1075,Yakkasaroy,53,2,1,5,3.0,O'rtacha,Panel,73879
+1076,Yakkasaroy,59,2,8,9,3.9,O'rtacha,Panel,67757
+1077,Yakkasaroy,77,4,8,9,4.4,Ta'mirsiz,G'ishtli,103627
+1078,Mirobod,78,3,3,4,1.0,O'rtacha,Panel,108969
+1079,Chilonzor,61,2,4,5,10.8,O'rtacha,Panel,48448
+1080,Mirzo Ulug'bek,83,2,2,9,6.5,O'rtacha,G'ishtli,93458
+1081,Chilonzor,94,3,6,12,14.9,O'rtacha,Panel,81300
+1082,Chilonzor,56,2,4,4,10.7,Ta'mirsiz,G'ishtli,47136
+1083,Mirobod,139,5,2,4,0.9,Ta'mirsiz,Panel,184366
+1084,Yakkasaroy,118,4,4,4,2.3,Yevro,Panel,167018
+1085,Chilonzor,90,4,7,12,6.9,Yevro,Panel,93486
+1086,Yakkasaroy,60,2,1,4,3.3,Ta'mirsiz,Monolit,85939
+1087,Mirzo Ulug'bek,65,2,5,5,5.4,O'rtacha,G'ishtli,79678
+1088,Yunusobod,96,3,2,4,15.0,O'rtacha,Panel,87529
+1089,Olmazor,91,3,2,9,16.8,Ta'mirsiz,Monolit,72671
+1090,Yunusobod,92,3,5,5,9.9,Yevro,Panel,96767
+1091,Yakkasaroy,59,3,1,5,3.7,Yevro,G'ishtli,95958
+1092,Mirzo Ulug'bek,33,1,4,5,1.9,Yevro,Panel,48662
+1093,Yakkasaroy,78,2,1,5,1.3,Ta'mirsiz,G'ishtli,106286
+1094,Sergeli,91,4,4,4,7.4,O'rtacha,G'ishtli,76675
+1095,Mirzo Ulug'bek,79,3,9,9,9.0,O'rtacha,G'ishtli,88850
+1096,Mirobod,94,3,1,5,5.4,O'rtacha,G'ishtli,130085
+1097,Chilonzor,40,2,3,5,12.3,O'rtacha,G'ishtli,44853
+1098,Chilonzor,28,1,6,9,1.5,O'rtacha,G'ishtli,38228
+1099,Olmazor,71,1,2,4,13.7,O'rtacha,Panel,52724
+1100,Chilonzor,74,1,1,9,3.6,Ta'mirsiz,Monolit,69649
+1101,Sergeli,104,4,4,5,13.6,O'rtacha,Panel,79927
+1102,Olmazor,97,4,1,5,11.9,O'rtacha,G'ishtli,82200
+1103,Shayxontohur,64,2,5,5,4.4,Yevro,Panel,85566
+1104,Shayxontohur,48,1,3,5,0.6,O'rtacha,Panel,61580
+1105,Mirobod,52,2,6,12,4.0,O'rtacha,G'ishtli,74119
+1106,Mirobod,49,1,1,4,4.2,Yevro,Panel,76911
+1107,Shayxontohur,63,3,5,5,3.4,Yevro,G'ishtli,95271
+1108,Yakkasaroy,28,1,6,9,2.7,O'rtacha,Panel,42733
+1109,Olmazor,98,4,11,12,12.5,O'rtacha,Panel,79968
+1110,Chilonzor,76,3,9,9,7.1,O'rtacha,G'ishtli,86963
+1111,Chilonzor,89,4,2,20,8.0,O'rtacha,Monolit,93082
+1112,Olmazor,63,2,4,5,17.3,O'rtacha,G'ishtli,40740
+1113,Mirzo Ulug'bek,67,2,2,4,13.3,Yevro,Monolit,86610
+1114,Sergeli,144,5,7,9,8.5,Ta'mirsiz,Panel,98336
+1115,Sergeli,28,1,4,5,17.2,Yevro,G'ishtli,24609
+1116,Yunusobod,136,5,1,4,11.7,O'rtacha,G'ishtli,140224
+1117,Mirzo Ulug'bek,59,2,5,5,1.3,Yevro,Panel,82808
+1118,Chilonzor,112,4,3,4,5.7,Yevro,Panel,123825
+1119,Olmazor,83,2,2,5,17.4,Ta'mirsiz,G'ishtli,52492
+1120,Olmazor,81,3,7,9,16.8,Yevro,G'ishtli,67866
+1121,Shayxontohur,67,2,4,12,5.6,Yevro,Monolit,94397
+1122,Mirzo Ulug'bek,119,4,4,5,14.2,O'rtacha,G'ishtli,132875
+1123,Chilonzor,35,2,7,9,1.9,O'rtacha,G'ishtli,49127
+1124,Yunusobod,80,3,7,9,9.4,O'rtacha,G'ishtli,87002
+1125,Olmazor,46,1,4,16,17.6,Yevro,Monolit,51045
+1126,Chilonzor,61,2,3,4,1.3,Ta'mirsiz,Panel,59334
+1127,Chilonzor,114,4,11,16,15.2,O'rtacha,G'ishtli,105294
+1128,Mirobod,66,1,8,12,3.0,Yevro,Panel,100608
+1129,Sergeli,81,4,2,5,13.6,O'rtacha,Panel,62923
+1130,Shayxontohur,67,3,2,5,0.7,Yevro,G'ishtli,103625
+1131,Yakkasaroy,85,3,5,5,2.2,O'rtacha,Panel,109864
+1132,Sergeli,111,4,7,9,17.0,O'rtacha,Panel,67757
+1133,Sergeli,72,2,14,20,14.7,Ta'mirsiz,Panel,37570
+1134,Chilonzor,71,3,2,4,5.6,O'rtacha,Panel,68211
+1135,Shayxontohur,45,1,5,9,3.6,Ta'mirsiz,Monolit,61658
+1136,Chilonzor,71,2,6,9,1.3,Ta'mirsiz,Panel,69251
+1137,Mirzo Ulug'bek,84,4,2,5,15.1,O'rtacha,Panel,87063
+1138,Shayxontohur,65,2,2,5,5.2,Yevro,Panel,92872
+1139,Yunusobod,46,1,3,9,1.5,Ta'mirsiz,G'ishtli,54130
+1140,Sergeli,85,2,7,9,12.3,Yevro,Panel,57746
+1141,Yunusobod,126,5,1,5,5.1,Yevro,G'ishtli,154488
+1142,Shayxontohur,28,1,4,9,3.4,Ta'mirsiz,Panel,33635
+1143,Yakkasaroy,65,3,1,5,3.2,Ta'mirsiz,G'ishtli,86423
+1144,Sergeli,57,1,3,4,8.6,O'rtacha,Panel,40670
+1145,Yunusobod,92,3,7,9,7.3,Yevro,Panel,100657
+1146,Mirzo Ulug'bek,82,3,3,4,7.5,O'rtacha,Panel,89731
+1147,Yakkasaroy,73,2,3,9,4.2,Yevro,Panel,99681
+1148,Shayxontohur,56,3,17,20,2.4,O'rtacha,Monolit,78480
+1149,Olmazor,83,2,4,5,16.9,Yevro,G'ishtli,74228
+1150,Yunusobod,88,3,7,9,5.7,O'rtacha,Monolit,95315
+1151,Chilonzor,64,2,3,5,10.0,Ta'mirsiz,Panel,47697
+1152,Shayxontohur,81,3,5,5,3.9,Yevro,Panel,109586
+1153,Yunusobod,117,3,1,9,1.0,O'rtacha,G'ishtli,132021
+1154,Yunusobod,96,3,5,5,5.3,Ta'mirsiz,Monolit,109655
+1155,Mirzo Ulug'bek,87,3,5,9,6.2,Ta'mirsiz,Panel,96386
+1156,Chilonzor,97,2,5,5,12.4,Yevro,Panel,98275
+1157,Olmazor,75,3,12,12,13.5,O'rtacha,Monolit,60329
+1158,Mirzo Ulug'bek,66,3,1,12,15.2,Yevro,G'ishtli,84854
+1159,Chilonzor,72,2,8,16,1.1,Yevro,Panel,85465
+1160,Yakkasaroy,65,2,17,20,1.8,O'rtacha,Panel,90945
+1161,Olmazor,67,3,2,4,15.2,O'rtacha,G'ishtli,61838
+1162,Yunusobod,70,2,2,5,6.1,Yevro,Panel,79008
+1163,Chilonzor,86,3,4,9,12.8,Yevro,Panel,80658
+1164,Mirzo Ulug'bek,104,3,9,12,13.7,O'rtacha,Panel,103661
+1165,Mirzo Ulug'bek,69,1,11,16,2.3,O'rtacha,G'ishtli,80937
+1166,Yakkasaroy,49,1,4,9,3.0,O'rtacha,G'ishtli,66440
+1167,Shayxontohur,54,2,2,12,1.2,Ta'mirsiz,Panel,54145
+1168,Yunusobod,66,3,3,5,10.4,O'rtacha,Panel,60016
+1169,Mirzo Ulug'bek,61,2,4,5,8.7,O'rtacha,Panel,66367
+1170,Yunusobod,70,2,3,4,5.9,O'rtacha,G'ishtli,76960
+1171,Shayxontohur,67,3,1,5,5.0,O'rtacha,G'ishtli,92069
+1172,Shayxontohur,98,3,4,5,3.6,O'rtacha,G'ishtli,121162
+1173,Yunusobod,91,3,1,4,11.3,Ta'mirsiz,Panel,80818
+1174,Yakkasaroy,71,2,2,5,2.2,Ta'mirsiz,Panel,84362
+1175,Olmazor,63,2,3,9,13.6,Ta'mirsiz,G'ishtli,43683
+1176,Yunusobod,85,4,1,4,11.2,Yevro,G'ishtli,97336
+1177,Yunusobod,44,1,1,4,15.5,Yevro,G'ishtli,45516
+1178,Chilonzor,101,5,4,12,8.5,O'rtacha,Panel,97158
+1179,Chilonzor,73,2,7,12,10.1,Yevro,G'ishtli,78634
+1180,Chilonzor,95,3,8,12,10.0,O'rtacha,Monolit,100630
+1181,Yunusobod,44,1,1,5,2.1,Yevro,G'ishtli,59784
+1182,Mirzo Ulug'bek,81,3,3,12,7.5,Yevro,G'ishtli,104580
+1183,Chilonzor,77,3,5,5,8.3,O'rtacha,G'ishtli,82495
+1184,Shayxontohur,51,1,1,5,4.2,O'rtacha,Monolit,77245
+1185,Sergeli,54,1,3,5,9.8,Ta'mirsiz,G'ishtli,40770
+1186,Sergeli,106,4,5,5,7.4,O'rtacha,Monolit,91511
+1187,Sergeli,44,2,9,12,11.4,O'rtacha,G'ishtli,33281
+1188,Chilonzor,28,1,1,12,14.9,Ta'mirsiz,Panel,18000
+1189,Chilonzor,85,3,8,9,13.5,Yevro,Panel,86217
+1190,Chilonzor,88,3,2,9,5.2,Yevro,G'ishtli,94358
+1191,Sergeli,59,1,10,12,16.0,O'rtacha,Panel,29935
+1192,Sergeli,59,2,1,4,14.6,Yevro,G'ishtli,57326
+1193,Mirobod,38,1,9,12,3.7,O'rtacha,G'ishtli,52653
+1194,Shayxontohur,96,2,1,4,1.0,O'rtacha,Panel,111300
+1195,Sergeli,71,2,1,4,17.2,Ta'mirsiz,G'ishtli,43932
+1196,Mirobod,123,4,3,4,3.8,Yevro,G'ishtli,188950
+1197,Chilonzor,54,2,4,5,6.9,Yevro,Panel,67163
+1198,Chilonzor,95,2,11,12,1.1,Ta'mirsiz,G'ishtli,100564
+1199,Chilonzor,82,3,2,9,5.5,O'rtacha,Panel,77572
+1200,Olmazor,113,4,7,12,17.9,Yevro,G'ishtli,101817
